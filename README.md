@@ -39,8 +39,10 @@ Aims:
   <img width="816" alt="image" src="https://github.com/user-attachments/assets/06c0ca33-0ec4-491a-a2cb-791725c80308">
 
   41_In :  287 + 288
-  CCK-FBK-FBXL7 : 287 + 288
-  ect
+  
+  CCK-FBKXL7 : 287 + 288
+  
+  etc
        
    * Current schema:
      - **`transferred_annotations`** *(list)*
