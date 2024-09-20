@@ -43,6 +43,8 @@ Aims:
   CCK-FBKXL7 : 287 + 288
   
   etc
+
+  Consider adding a gropuing mechanism in future
        
    * Current schema:
      - **`transferred_annotations`** *(list)*
