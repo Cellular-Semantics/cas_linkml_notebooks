@@ -10,7 +10,12 @@ Aims:
         https://github.com/cellannotation/cas-tools/issues/111
           Decision - we will stick with the status quo for now, but need to review.  The flattened files are ugly, but we can offer unflattening.
           TODO - check what happens when we flatten annotation transfer.
-     3. We are getting some warnings about hashes. 
+     3. We are getting some warnings about hashes.
+     4. TDT issue:
+         * Hierarchy merges down where two adjacent levels have the same name.  Needs to be fixed. <-- v.high priority.
+   Action item: Fix TDT issue and then share flattened human BG taxonomy with CAP.
+   Action term: Review roundtripping - should we switch to mixed strategy?
+  
 
 * Add cell set level AT to Macaque BG tax
    *  Agree on solution. Draft:
@@ -41,5 +46,6 @@ Aims:
       - We need confirmation of algorithm and some text for the coment from Nelson
         
    * Code with new CAS-LinkML lib.
-  
+      * LinkML misfeature means that author annotation fields get stored as JSON_to_string which is a not a JSON string.  Solution for now - we convert to JSON string before loading into CAS-LinkML instance.  Convert back at end.
+ 
 * (Test) Merge Macaque BG tax with new h5ad
