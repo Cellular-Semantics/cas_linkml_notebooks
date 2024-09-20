@@ -26,6 +26,18 @@ Aims:
           * CCK:CTX-MGE GABA
           * TAC3:CTX-CGE GABA
           * cholinergic: PAL-STR Gaba-Chol
+       
+   * Current schema:
+     - **`transferred_annotations`** *(list)*
+        - **`transferred_cell_label`** *(string)*: Transferred cell label.
+        - **`source_taxonomy`** *(string)*: PURL of source taxonomy.
+        - **`source_node_accession`** *(string)*: accession of node that label was transferred from.
+        - **`algorithm_name`** *(string)*: .
+        - **`comment`** *(string)*: Free text comment on annotation transfer.
+      
+      - Notes - we need a new field for labelset
+      - We need confirmation of algorithm and some text for the coment from Nelson
+        
    * Code with new CAS-LinkML lib.
   
 * (Test) Merge Macaque BG tax with new h5ad
