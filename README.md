@@ -18,7 +18,7 @@ Aims:
       *  <img width="993" alt="image" src="https://github.com/user-attachments/assets/4f0c0462-d4af-4c2c-a839-381d66f88b30">
         * primate subclass:
           * CCK-FBXL7: CTX-MGE GABA
-          * CCK-VIP-TAC3:CTX-CGE GABA
+          * CCK-VIP-TAC3:vip Gaba
           * CHAT:PAL-STR Gaba-Chol
           * D1-ICj:OT D3 Folh1 Gaba
       * primate-neighbourhood:
