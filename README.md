@@ -34,6 +34,14 @@ Aims:
           * TAC3:CTX-CGE GABA
           * cholinergic: PAL-STR Gaba-Chol
        
+  If there are mutiple matches on the same level, we add all, again matching most specfic block
+
+  <img width="816" alt="image" src="https://github.com/user-attachments/assets/06c0ca33-0ec4-491a-a2cb-791725c80308">
+
+  41_In :  287 + 288
+  CCK-FBK-FBXL7 : 287 + 288
+  ect
+       
    * Current schema:
      - **`transferred_annotations`** *(list)*
         - **`transferred_cell_label`** *(string)*: Transferred cell label.
