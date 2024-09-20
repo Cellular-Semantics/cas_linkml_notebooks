@@ -8,12 +8,14 @@ Aims:
    Notes:
      1. It seems that everything is flattened. We should review this, it conflicts with option 2 here:
         https://github.com/cellannotation/cas-tools/issues/111
+          Decision - we will stick with the status quo for now, but need to review.  The flattened files are ugly, but we can offer unflattening.
+          TODO - check what happens when we flatten annotation transfer.
+     3. We are getting some warnings about hashes. 
 
 * Add cell set level AT to Macaque BG tax
    *  Agree on solution. Draft:
       * AT was on clusters, so they all get the most specific (homology subclass)
       * Everything else gets most specific matching block - if one exists
-    
       * e.g. for
       *  <img width="993" alt="image" src="https://github.com/user-attachments/assets/4f0c0462-d4af-4c2c-a839-381d66f88b30">
         * primate subclass:
