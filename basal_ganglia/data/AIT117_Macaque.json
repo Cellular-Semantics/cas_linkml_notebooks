@@ -1,0 +1,5932 @@
+{
+  "author_name": "Nelson Johansen",
+  "annotations": [
+    {
+      "labelset": "cluster",
+      "cell_label": "IN_41",
+      "cell_set_accession": "AIT117_41",
+      "parent_cell_set_accession": "AIT117_311",
+      "author_annotation_fields": {
+        "id": "120",
+        "MERSCOPE roi": "Extra striatum pattern",
+        "roi_composition": "NAC(0.76)",
+        "cluster_size": "457",
+        "gene_counts": "3215",
+        "umi_counts": "8048",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "IN_42",
+      "cell_set_accession": "AIT117_42",
+      "parent_cell_set_accession": "AIT117_312",
+      "author_annotation_fields": {
+        "id": "121",
+        "MERSCOPE roi": "Extra striatum pattern",
+        "roi_composition": "PuC(0.2) | CaH(0.2) | CaB(0.18) | PuR(0.11) | PuPV(0.1) | CaT(0.1)",
+        "cluster_size": "369",
+        "gene_counts": "2881",
+        "umi_counts": "7629",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "IN_57",
+      "cell_set_accession": "AIT117_57",
+      "parent_cell_set_accession": "AIT117_313",
+      "author_annotation_fields": {
+        "id": "133",
+        "MERSCOPE roi": "Cortical?",
+        "roi_composition": "NAC(0.23) | CaB(0.22) | CaH(0.19) | CaT(0.14) | PuR(0.09)",
+        "cluster_size": "714",
+        "gene_counts": "2549",
+        "umi_counts": "6015",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "IN_58",
+      "cell_set_accession": "AIT117_58",
+      "parent_cell_set_accession": "AIT117_313",
+      "author_annotation_fields": {
+        "id": "134",
+        "MERSCOPE roi": "Cortical?",
+        "roi_composition": "CaB(0.33) | PuR(0.16) | CaH(0.14) | NAC(0.14) | CaT(0.1) | PuC(0.07) | PuPV(0.07)",
+        "cluster_size": "99",
+        "gene_counts": "2462",
+        "umi_counts": "5811",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "IN_59",
+      "cell_set_accession": "AIT117_59",
+      "parent_cell_set_accession": "AIT117_313",
+      "author_annotation_fields": {
+        "id": "135",
+        "MERSCOPE roi": "Cortical?",
+        "roi_composition": "NAC(0.58) | PuR(0.1) | CaH(0.08)",
+        "cluster_size": "141",
+        "gene_counts": "3314.5",
+        "umi_counts": "9706",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "IN_60",
+      "cell_set_accession": "AIT117_60",
+      "parent_cell_set_accession": "AIT117_313",
+      "author_annotation_fields": {
+        "id": "137",
+        "MERSCOPE roi": "Cortical?",
+        "roi_composition": "NAC(0.36) | CaH(0.2) | CaT(0.16) | CaB(0.1) | PuPV(0.06)",
+        "cluster_size": "192",
+        "gene_counts": "2633",
+        "umi_counts": "6387",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "IN_71",
+      "cell_set_accession": "AIT117_71",
+      "parent_cell_set_accession": "AIT117_313",
+      "author_annotation_fields": {
+        "id": "148",
+        "MERSCOPE roi": "Cortical?",
+        "roi_composition": "NAC(0.76) | CaH(0.13)",
+        "cluster_size": "70",
+        "gene_counts": "3267.5",
+        "umi_counts": "8552",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "IN_213",
+      "cell_set_accession": "AIT117_213",
+      "parent_cell_set_accession": "AIT117_314",
+      "author_annotation_fields": {
+        "id": "88",
+        "MERSCOPE roi": "SNr",
+        "roi_composition": "STH(0.71) | SN-VTA(0.21) | GPe(0.08)",
+        "cluster_size": "885",
+        "gene_counts": "6392",
+        "umi_counts": "30981",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "IN_119",
+      "cell_set_accession": "AIT117_119",
+      "parent_cell_set_accession": "AIT117_315",
+      "author_annotation_fields": {
+        "id": "17",
+        "MERSCOPE roi": "Extra striatum pattern",
+        "roi_composition": "NAC",
+        "cluster_size": "587",
+        "gene_counts": "3703",
+        "umi_counts": "9633",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "IN_120",
+      "cell_set_accession": "AIT117_120",
+      "parent_cell_set_accession": "AIT117_315",
+      "author_annotation_fields": {
+        "id": "18",
+        "MERSCOPE roi": "Extra striatum pattern",
+        "roi_composition": "NAC",
+        "cluster_size": "217",
+        "gene_counts": "3668",
+        "umi_counts": "9370",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "IN_121",
+      "cell_set_accession": "AIT117_121",
+      "parent_cell_set_accession": "AIT117_315",
+      "author_annotation_fields": {
+        "id": "19",
+        "MERSCOPE roi": "Extra striatum pattern",
+        "roi_composition": "NAC",
+        "cluster_size": "457",
+        "gene_counts": "3186",
+        "umi_counts": "7562.5",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "IN_74",
+      "cell_set_accession": "AIT117_74",
+      "parent_cell_set_accession": "AIT117_316",
+      "author_annotation_fields": {
+        "id": "151",
+        "MERSCOPE roi": "NAC",
+        "roi_composition": "NAC(0.81) | CaH(0.09)",
+        "cluster_size": "366",
+        "gene_counts": "2415",
+        "umi_counts": "4972",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "IN_75",
+      "cell_set_accession": "AIT117_75",
+      "parent_cell_set_accession": "AIT117_316",
+      "author_annotation_fields": {
+        "id": "152",
+        "MERSCOPE roi": "NAC",
+        "roi_composition": "NAC(0.64) | GPi(0.13) | CaH(0.07) | CaB(0.06)",
+        "cluster_size": "313",
+        "gene_counts": "3374",
+        "umi_counts": "8550",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "IN_77",
+      "cell_set_accession": "AIT117_77",
+      "parent_cell_set_accession": "AIT117_316",
+      "author_annotation_fields": {
+        "id": "154",
+        "MERSCOPE roi": "NAC",
+        "roi_composition": "NAC(0.94)",
+        "cluster_size": "287",
+        "gene_counts": "2881",
+        "umi_counts": "6254",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "IN_1",
+      "cell_set_accession": "AIT117_1",
+      "parent_cell_set_accession": "AIT117_317",
+      "author_annotation_fields": {
+        "id": "4",
+        "MERSCOPE roi": "All Striatum",
+        "roi_composition": "CaH(0.33) | CaB(0.2) | PuR(0.13) | PuC(0.11) | CaT(0.1) | NAC(0.06)",
+        "cluster_size": "5708",
+        "gene_counts": "2938",
+        "umi_counts": "7203",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "IN_2",
+      "cell_set_accession": "AIT117_2",
+      "parent_cell_set_accession": "AIT117_317",
+      "author_annotation_fields": {
+        "id": "73",
+        "MERSCOPE roi": "All Striatum",
+        "roi_composition": "PuR(0.29) | CaH(0.24) | PuC(0.14) | CaB(0.11) | PuPV(0.07)",
+        "cluster_size": "805",
+        "gene_counts": "3227",
+        "umi_counts": "8198",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "IN_3",
+      "cell_set_accession": "AIT117_3",
+      "parent_cell_set_accession": "AIT117_317",
+      "author_annotation_fields": {
+        "id": "113",
+        "MERSCOPE roi": "All Striatum",
+        "roi_composition": "CaH(0.47) | CaB(0.15) | PuR(0.13) | CaT(0.06) | NAC(0.06)",
+        "cluster_size": "1003",
+        "gene_counts": "3194",
+        "umi_counts": "8249",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "IN_4",
+      "cell_set_accession": "AIT117_4",
+      "parent_cell_set_accession": "AIT117_317",
+      "author_annotation_fields": {
+        "id": "119",
+        "MERSCOPE roi": "All Striatum",
+        "roi_composition": "NAC(0.7) | PuPV(0.09) | GPe(0.07)",
+        "cluster_size": "210",
+        "gene_counts": "2667.5",
+        "umi_counts": "5489.5",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "MSN_1",
+      "cell_set_accession": "AIT117_214",
+      "parent_cell_set_accession": "AIT117_318",
+      "author_annotation_fields": {
+        "id": "176",
+        "MERSCOPE roi": "None",
+        "roi_composition": "PuR(0.52) | CaH(0.39)",
+        "cluster_size": "16393",
+        "gene_counts": "3798",
+        "umi_counts": "13134",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "MSN_2",
+      "cell_set_accession": "AIT117_215",
+      "parent_cell_set_accession": "AIT117_318",
+      "author_annotation_fields": {
+        "id": "186",
+        "MERSCOPE roi": "None",
+        "roi_composition": "CaH(0.95)",
+        "cluster_size": "1642",
+        "gene_counts": "3720",
+        "umi_counts": "11928",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "MSN_22",
+      "cell_set_accession": "AIT117_22",
+      "parent_cell_set_accession": "AIT117_318",
+      "author_annotation_fields": {
+        "id": "189",
+        "MERSCOPE roi": "None",
+        "roi_composition": "PuR(0.46) | PuC(0.45)",
+        "cluster_size": "16850",
+        "gene_counts": "3800",
+        "umi_counts": "13101",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "MSN_3",
+      "cell_set_accession": "AIT117_216",
+      "parent_cell_set_accession": "AIT117_318",
+      "author_annotation_fields": {
+        "id": "197",
+        "MERSCOPE roi": "None",
+        "roi_composition": "CaH(0.59) | PuR(0.38)",
+        "cluster_size": "226",
+        "gene_counts": "4152",
+        "umi_counts": "15628",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "MSN_34",
+      "cell_set_accession": "AIT117_34",
+      "parent_cell_set_accession": "AIT117_318",
+      "author_annotation_fields": {
+        "id": "201",
+        "MERSCOPE roi": "None",
+        "roi_composition": "PuR(0.69) | PuC(0.1) | CaH(0.06)",
+        "cluster_size": "404",
+        "gene_counts": "4168",
+        "umi_counts": "14441",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "MSN_35",
+      "cell_set_accession": "AIT117_35",
+      "parent_cell_set_accession": "AIT117_319",
+      "author_annotation_fields": {
+        "id": "202",
+        "MERSCOPE roi": "Striosome",
+        "roi_composition": "PuC(0.46) | PuR(0.24) | CaH(0.13) | CaB(0.08)",
+        "cluster_size": "180",
+        "gene_counts": "3726",
+        "umi_counts": "11004",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "MSN_36",
+      "cell_set_accession": "AIT117_36",
+      "parent_cell_set_accession": "AIT117_320",
+      "author_annotation_fields": {
+        "id": "203",
+        "MERSCOPE roi": "None",
+        "roi_composition": "CaH(0.94)",
+        "cluster_size": "883",
+        "gene_counts": "4409",
+        "umi_counts": "16818",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "MSN_4",
+      "cell_set_accession": "AIT117_217",
+      "parent_cell_set_accession": "AIT117_318",
+      "author_annotation_fields": {
+        "id": "205",
+        "MERSCOPE roi": "None",
+        "roi_composition": "PuR(0.91) | CaH(0.08)",
+        "cluster_size": "974",
+        "gene_counts": "4827",
+        "umi_counts": "23573",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "MSN_47",
+      "cell_set_accession": "AIT117_47",
+      "parent_cell_set_accession": "AIT117_318",
+      "author_annotation_fields": {
+        "id": "211",
+        "MERSCOPE roi": "Matrix enriched PV",
+        "roi_composition": "PuPV(0.62) | PuR(0.22) | PuC(0.1)",
+        "cluster_size": "1004",
+        "gene_counts": "4758",
+        "umi_counts": "21039",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "MSN_49",
+      "cell_set_accession": "AIT117_49",
+      "parent_cell_set_accession": "AIT117_318",
+      "author_annotation_fields": {
+        "id": "212",
+        "MERSCOPE roi": "None",
+        "roi_composition": "CaB(0.9)",
+        "cluster_size": "1924",
+        "gene_counts": "4751",
+        "umi_counts": "20154",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "MSN_50",
+      "cell_set_accession": "AIT117_50",
+      "parent_cell_set_accession": "AIT117_318",
+      "author_annotation_fields": {
+        "id": "214",
+        "MERSCOPE roi": "None",
+        "roi_composition": "CaB(0.86) | PuR(0.07)",
+        "cluster_size": "1012",
+        "gene_counts": "3949",
+        "umi_counts": "15473",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "MSN_89",
+      "cell_set_accession": "AIT117_89",
+      "parent_cell_set_accession": "AIT117_318",
+      "author_annotation_fields": {
+        "id": "246",
+        "MERSCOPE roi": "None",
+        "roi_composition": "PuC(0.9) | GPi(0.08)",
+        "cluster_size": "4439",
+        "gene_counts": "2675",
+        "umi_counts": "8910",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "MSN_51",
+      "cell_set_accession": "AIT117_51",
+      "parent_cell_set_accession": "AIT117_320",
+      "author_annotation_fields": {
+        "id": "215",
+        "MERSCOPE roi": "None",
+        "roi_composition": "CaB(0.87)",
+        "cluster_size": "1052",
+        "gene_counts": "4656",
+        "umi_counts": "18865",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "MSN_74",
+      "cell_set_accession": "AIT117_218",
+      "parent_cell_set_accession": "AIT117_320",
+      "author_annotation_fields": {
+        "id": "235",
+        "MERSCOPE roi": "Not mapping well.",
+        "roi_composition": "CaT(0.8) | PuPV(0.16)",
+        "cluster_size": "9360",
+        "gene_counts": "2847",
+        "umi_counts": "9076",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "MSN_61",
+      "cell_set_accession": "AIT117_61",
+      "parent_cell_set_accession": "AIT117_320",
+      "author_annotation_fields": {
+        "id": "225",
+        "MERSCOPE roi": "Clearly NAC",
+        "roi_composition": "NAC(0.94)",
+        "cluster_size": "614",
+        "gene_counts": "3291",
+        "umi_counts": "8590",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "MSN_62",
+      "cell_set_accession": "AIT117_62",
+      "parent_cell_set_accession": "AIT117_320",
+      "author_annotation_fields": {
+        "id": "226",
+        "MERSCOPE roi": "Clearly NAC",
+        "roi_composition": "NAC(0.96)",
+        "cluster_size": "2543",
+        "gene_counts": "3531",
+        "umi_counts": "9579",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "MSN_63",
+      "cell_set_accession": "AIT117_63",
+      "parent_cell_set_accession": "AIT117_320",
+      "author_annotation_fields": {
+        "id": "227",
+        "MERSCOPE roi": "Clearly NAC",
+        "roi_composition": "NAC(0.96)",
+        "cluster_size": "755",
+        "gene_counts": "4087",
+        "umi_counts": "12874",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "MSN_64",
+      "cell_set_accession": "AIT117_64",
+      "parent_cell_set_accession": "AIT117_320",
+      "author_annotation_fields": {
+        "id": "228",
+        "MERSCOPE roi": "D1-ICj and ShellOT? Further split?",
+        "roi_composition": "NAC(0.97)",
+        "cluster_size": "3394",
+        "gene_counts": "2230",
+        "umi_counts": "4762",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "MSN_65",
+      "cell_set_accession": "AIT117_65",
+      "parent_cell_set_accession": "AIT117_320",
+      "author_annotation_fields": {
+        "id": "229",
+        "MERSCOPE roi": "Clearly NAC",
+        "roi_composition": "NAC",
+        "cluster_size": "1202",
+        "gene_counts": "3985",
+        "umi_counts": "12526",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "MSN_66",
+      "cell_set_accession": "AIT117_66",
+      "parent_cell_set_accession": "AIT117_320",
+      "author_annotation_fields": {
+        "id": "230",
+        "MERSCOPE roi": "Medial shell NAC, TAC3?",
+        "roi_composition": "NAC",
+        "cluster_size": "398",
+        "gene_counts": "2914",
+        "umi_counts": "6762",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "MSN_67",
+      "cell_set_accession": "AIT117_67",
+      "parent_cell_set_accession": "AIT117_320",
+      "author_annotation_fields": {
+        "id": "231",
+        "MERSCOPE roi": "Medial shell NAC, TAC3?",
+        "roi_composition": "NAC(0.96)",
+        "cluster_size": "546",
+        "gene_counts": "4366",
+        "umi_counts": "15706",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "MSN_68",
+      "cell_set_accession": "AIT117_68",
+      "parent_cell_set_accession": "AIT117_320",
+      "author_annotation_fields": {
+        "id": "232",
+        "MERSCOPE roi": "Medial shell NAC, similiar",
+        "roi_composition": "NAC",
+        "cluster_size": "605",
+        "gene_counts": "3586",
+        "umi_counts": "9749",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "MSN_69",
+      "cell_set_accession": "AIT117_69",
+      "parent_cell_set_accession": "AIT117_320",
+      "author_annotation_fields": {
+        "id": "233",
+        "MERSCOPE roi": "Not mapping well.",
+        "roi_composition": "NAC(0.98)",
+        "cluster_size": "390",
+        "gene_counts": "4173",
+        "umi_counts": "13714",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "MSN_75",
+      "cell_set_accession": "AIT117_219",
+      "parent_cell_set_accession": "AIT117_320",
+      "author_annotation_fields": {
+        "id": "236",
+        "MERSCOPE roi": "None",
+        "roi_composition": "PuPV(0.61) | GPe(0.32)",
+        "cluster_size": "546",
+        "gene_counts": "3099",
+        "umi_counts": "10780",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "MSN_76",
+      "cell_set_accession": "AIT117_76",
+      "parent_cell_set_accession": "AIT117_320",
+      "author_annotation_fields": {
+        "id": "237",
+        "MERSCOPE roi": "None",
+        "roi_composition": "PuC(0.47) | PuPV(0.39) | CaB(0.11)",
+        "cluster_size": "135",
+        "gene_counts": "4451",
+        "umi_counts": "16269",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "MSN_77",
+      "cell_set_accession": "AIT117_220",
+      "parent_cell_set_accession": "AIT117_320",
+      "author_annotation_fields": {
+        "id": "238",
+        "MERSCOPE roi": "None",
+        "roi_composition": "PuPV(0.71) | CaT(0.2)",
+        "cluster_size": "1951",
+        "gene_counts": "2617",
+        "umi_counts": "7858",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "MSN_81",
+      "cell_set_accession": "AIT117_81",
+      "parent_cell_set_accession": "AIT117_321",
+      "author_annotation_fields": {
+        "id": "240",
+        "MERSCOPE roi": "Updated to ICj - CPNE4+",
+        "roi_composition": "NAC",
+        "cluster_size": "321",
+        "gene_counts": "3741",
+        "umi_counts": "10981",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "MSN_39",
+      "cell_set_accession": "AIT117_39",
+      "parent_cell_set_accession": "AIT117_319",
+      "author_annotation_fields": {
+        "id": "204",
+        "MERSCOPE roi": "None",
+        "roi_composition": "CaH(0.85) | PuR(0.09)",
+        "cluster_size": "3054",
+        "gene_counts": "3790",
+        "umi_counts": "13358",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "MSN_40",
+      "cell_set_accession": "AIT117_40",
+      "parent_cell_set_accession": "AIT117_319",
+      "author_annotation_fields": {
+        "id": "206",
+        "MERSCOPE roi": "None",
+        "roi_composition": "PuR(0.3) | CaB(0.27) | PuC(0.2) | PuPV(0.1) | CaH(0.07)",
+        "cluster_size": "7014",
+        "gene_counts": "4009",
+        "umi_counts": "15000",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "MSN_41",
+      "cell_set_accession": "AIT117_221",
+      "parent_cell_set_accession": "AIT117_319",
+      "author_annotation_fields": {
+        "id": "207",
+        "MERSCOPE roi": "None",
+        "roi_composition": "PuR(0.65) | PuC(0.29)",
+        "cluster_size": "847",
+        "gene_counts": "3881",
+        "umi_counts": "15040",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "MSN_42",
+      "cell_set_accession": "AIT117_222",
+      "parent_cell_set_accession": "AIT117_319",
+      "author_annotation_fields": {
+        "id": "208",
+        "MERSCOPE roi": "None",
+        "roi_composition": "PuC(0.78) | NAC(0.11) | GPi(0.06)",
+        "cluster_size": "1183",
+        "gene_counts": "2639",
+        "umi_counts": "9007",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "MSN_43",
+      "cell_set_accession": "AIT117_43",
+      "parent_cell_set_accession": "AIT117_319",
+      "author_annotation_fields": {
+        "id": "209",
+        "MERSCOPE roi": "Not mapping well.",
+        "roi_composition": "NAC(0.9)",
+        "cluster_size": "481",
+        "gene_counts": "2617",
+        "umi_counts": "8264",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "MSN_44",
+      "cell_set_accession": "AIT117_44",
+      "parent_cell_set_accession": "AIT117_319",
+      "author_annotation_fields": {
+        "id": "210",
+        "MERSCOPE roi": "Not CaT enriched",
+        "roi_composition": "CaT(0.59) | PuPV(0.22) | GPi(0.07) | PuC(0.06)",
+        "cluster_size": "1098",
+        "gene_counts": "2724",
+        "umi_counts": "8360",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "MSN_13",
+      "cell_set_accession": "AIT117_13",
+      "parent_cell_set_accession": "AIT117_322",
+      "author_annotation_fields": {
+        "id": "180",
+        "MERSCOPE roi": "Not mapping well.",
+        "roi_composition": "NAC(0.87)",
+        "cluster_size": "488",
+        "gene_counts": "2648",
+        "umi_counts": "8665",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "MSN_31",
+      "cell_set_accession": "AIT117_31",
+      "parent_cell_set_accession": "AIT117_322",
+      "author_annotation_fields": {
+        "id": "199",
+        "MERSCOPE roi": "None",
+        "roi_composition": "PuC(0.42) | PuR(0.28) | CaH(0.12)",
+        "cluster_size": "194",
+        "gene_counts": "3651",
+        "umi_counts": "10791",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "MSN_32",
+      "cell_set_accession": "AIT117_32",
+      "parent_cell_set_accession": "AIT117_322",
+      "author_annotation_fields": {
+        "id": "200",
+        "MERSCOPE roi": "None",
+        "roi_composition": "PuR(0.46) | PuC(0.39)",
+        "cluster_size": "453",
+        "gene_counts": "3590",
+        "umi_counts": "10616",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "MSN_5",
+      "cell_set_accession": "AIT117_5",
+      "parent_cell_set_accession": "AIT117_322",
+      "author_annotation_fields": {
+        "id": "213",
+        "MERSCOPE roi": "None",
+        "roi_composition": "PuR(0.44) | CaB(0.23) | PuC(0.22) | PuPV(0.06)",
+        "cluster_size": "22539",
+        "gene_counts": "3874",
+        "umi_counts": "13484",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "MSN_56",
+      "cell_set_accession": "AIT117_56",
+      "parent_cell_set_accession": "AIT117_322",
+      "author_annotation_fields": {
+        "id": "219",
+        "MERSCOPE roi": "None",
+        "roi_composition": "PuC(0.6) | PuR(0.38)",
+        "cluster_size": "7302",
+        "gene_counts": "3485",
+        "umi_counts": "11842",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "MSN_6",
+      "cell_set_accession": "AIT117_6",
+      "parent_cell_set_accession": "AIT117_322",
+      "author_annotation_fields": {
+        "id": "223",
+        "MERSCOPE roi": "Matrix, no GP",
+        "roi_composition": "PuR(0.69) | GPe(0.13) | CaH(0.09) | PuPV(0.06)",
+        "cluster_size": "4351",
+        "gene_counts": "3922",
+        "umi_counts": "13861",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "MSN_7",
+      "cell_set_accession": "AIT117_7",
+      "parent_cell_set_accession": "AIT117_322",
+      "author_annotation_fields": {
+        "id": "234",
+        "MERSCOPE roi": "Matrix",
+        "roi_composition": "PuR(0.74) | PuC(0.2)",
+        "cluster_size": "4123",
+        "gene_counts": "3953",
+        "umi_counts": "15259",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "MSN_8",
+      "cell_set_accession": "AIT117_8",
+      "parent_cell_set_accession": "AIT117_322",
+      "author_annotation_fields": {
+        "id": "239",
+        "MERSCOPE roi": "None",
+        "roi_composition": "CaH(0.86) | PuR(0.09)",
+        "cluster_size": "9443",
+        "gene_counts": "3818",
+        "umi_counts": "13352",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "MSN_87",
+      "cell_set_accession": "AIT117_87",
+      "parent_cell_set_accession": "AIT117_322",
+      "author_annotation_fields": {
+        "id": "244",
+        "MERSCOPE roi": "None",
+        "roi_composition": "PuC(0.91) | GPi(0.08)",
+        "cluster_size": "5215",
+        "gene_counts": "2643",
+        "umi_counts": "8634",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "MSN_88",
+      "cell_set_accession": "AIT117_88",
+      "parent_cell_set_accession": "AIT117_322",
+      "author_annotation_fields": {
+        "id": "245",
+        "MERSCOPE roi": "None",
+        "roi_composition": "PuC(0.77) | GPi(0.18)",
+        "cluster_size": "1223",
+        "gene_counts": "2661",
+        "umi_counts": "8839",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "MSN_90",
+      "cell_set_accession": "AIT117_90",
+      "parent_cell_set_accession": "AIT117_322",
+      "author_annotation_fields": {
+        "id": "248",
+        "MERSCOPE roi": "CaT adjacent type? Not mapping well.",
+        "roi_composition": "CaT(0.7) | PuPV(0.24)",
+        "cluster_size": "11169",
+        "gene_counts": "2642",
+        "umi_counts": "8041",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "MSN_57",
+      "cell_set_accession": "AIT117_223",
+      "parent_cell_set_accession": "AIT117_323",
+      "author_annotation_fields": {
+        "id": "220",
+        "MERSCOPE roi": "None",
+        "roi_composition": "NAC(0.87) | PuPV(0.07)",
+        "cluster_size": "3333",
+        "gene_counts": "3478",
+        "umi_counts": "9375",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "MSN_58",
+      "cell_set_accession": "AIT117_224",
+      "parent_cell_set_accession": "AIT117_323",
+      "author_annotation_fields": {
+        "id": "221",
+        "MERSCOPE roi": "None",
+        "roi_composition": "NAC(0.92)",
+        "cluster_size": "797",
+        "gene_counts": "3348",
+        "umi_counts": "8937",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "MSN_59",
+      "cell_set_accession": "AIT117_225",
+      "parent_cell_set_accession": "AIT117_323",
+      "author_annotation_fields": {
+        "id": "222",
+        "MERSCOPE roi": "None",
+        "roi_composition": "NAC(0.97)",
+        "cluster_size": "2073",
+        "gene_counts": "3602",
+        "umi_counts": "10315",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "MSN_60",
+      "cell_set_accession": "AIT117_226",
+      "parent_cell_set_accession": "AIT117_323",
+      "author_annotation_fields": {
+        "id": "224",
+        "MERSCOPE roi": "None",
+        "roi_composition": "NAC(0.86) | PuPV(0.09)",
+        "cluster_size": "271",
+        "gene_counts": "2152",
+        "umi_counts": "5325",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "MSN_82",
+      "cell_set_accession": "AIT117_82",
+      "parent_cell_set_accession": "AIT117_323",
+      "author_annotation_fields": {
+        "id": "241",
+        "MERSCOPE roi": "CaT adjacent type?",
+        "roi_composition": "CaB(0.76) | NAC(0.11)",
+        "cluster_size": "437",
+        "gene_counts": "4301",
+        "umi_counts": "14824",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "MSN_83",
+      "cell_set_accession": "AIT117_83",
+      "parent_cell_set_accession": "AIT117_323",
+      "author_annotation_fields": {
+        "id": "242",
+        "MERSCOPE roi": "CaT adjacent type?",
+        "roi_composition": "PuPV(0.72) | CaT(0.22)",
+        "cluster_size": "1437",
+        "gene_counts": "2139",
+        "umi_counts": "5304",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "MSN_84",
+      "cell_set_accession": "AIT117_84",
+      "parent_cell_set_accession": "AIT117_323",
+      "author_annotation_fields": {
+        "id": "243",
+        "MERSCOPE roi": "None",
+        "roi_composition": "PuPV(0.82) | CaT(0.13)",
+        "cluster_size": "5074",
+        "gene_counts": "2437",
+        "umi_counts": "6952",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "MSN_10",
+      "cell_set_accession": "AIT117_10",
+      "parent_cell_set_accession": "AIT117_324",
+      "author_annotation_fields": {
+        "id": "177",
+        "MERSCOPE roi": "None",
+        "roi_composition": "PuC(0.49) | PuR(0.38)",
+        "cluster_size": "1055",
+        "gene_counts": "3955",
+        "umi_counts": "13826",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "MSN_11",
+      "cell_set_accession": "AIT117_11",
+      "parent_cell_set_accession": "AIT117_324",
+      "author_annotation_fields": {
+        "id": "178",
+        "MERSCOPE roi": "None",
+        "roi_composition": "PuR(0.43) | PuC(0.36) | PuPV(0.11)",
+        "cluster_size": "1622",
+        "gene_counts": "3777",
+        "umi_counts": "12311",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "MSN_12",
+      "cell_set_accession": "AIT117_12",
+      "parent_cell_set_accession": "AIT117_324",
+      "author_annotation_fields": {
+        "id": "179",
+        "MERSCOPE roi": "None",
+        "roi_composition": "PuPV(0.42) | CaT(0.4) | GPe(0.09)",
+        "cluster_size": "327",
+        "gene_counts": "2668",
+        "umi_counts": "8285",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "MSN_9",
+      "cell_set_accession": "AIT117_9",
+      "parent_cell_set_accession": "AIT117_324",
+      "author_annotation_fields": {
+        "id": "247",
+        "MERSCOPE roi": "None",
+        "roi_composition": "CaH(0.32) | PuR(0.28) | CaB(0.21) | PuC(0.08)",
+        "cluster_size": "7628",
+        "gene_counts": "3950",
+        "umi_counts": "14885",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "IN_172",
+      "cell_set_accession": "AIT117_172",
+      "parent_cell_set_accession": "AIT117_325",
+      "author_annotation_fields": {
+        "id": "48",
+        "MERSCOPE roi": "GPi",
+        "roi_composition": "GPi(0.74) | GPe(0.26)",
+        "cluster_size": "989",
+        "gene_counts": "4144",
+        "umi_counts": "15959",
+        "Notes _AA": "CL:ID mapping question: Do you refer to any specific GABAergic cells within the globus pallidus internal segment like PVALB?",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "IN_173",
+      "cell_set_accession": "AIT117_173",
+      "parent_cell_set_accession": "AIT117_325",
+      "author_annotation_fields": {
+        "id": "49",
+        "MERSCOPE roi": "GPi",
+        "roi_composition": "GPi(0.89) | GPe(0.11)",
+        "cluster_size": "237",
+        "gene_counts": "7327",
+        "umi_counts": "50029",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "IN_174",
+      "cell_set_accession": "AIT117_174",
+      "parent_cell_set_accession": "AIT117_325",
+      "author_annotation_fields": {
+        "id": "50",
+        "MERSCOPE roi": "GPi",
+        "roi_composition": "GPi(0.94)",
+        "cluster_size": "409",
+        "gene_counts": "7613",
+        "umi_counts": "56131",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "IN_175",
+      "cell_set_accession": "AIT117_175",
+      "parent_cell_set_accession": "AIT117_325",
+      "author_annotation_fields": {
+        "id": "51",
+        "MERSCOPE roi": "GPi",
+        "roi_composition": "GPi(0.71) | GPe(0.25)",
+        "cluster_size": "79",
+        "gene_counts": "3566",
+        "umi_counts": "10854",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "IN_176",
+      "cell_set_accession": "AIT117_176",
+      "parent_cell_set_accession": "AIT117_325",
+      "author_annotation_fields": {
+        "id": "52",
+        "MERSCOPE roi": "GPi",
+        "roi_composition": "GPi(0.9) | GPe(0.08)",
+        "cluster_size": "226",
+        "gene_counts": "6538.5",
+        "umi_counts": "33305",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "IN_177",
+      "cell_set_accession": "AIT117_177",
+      "parent_cell_set_accession": "AIT117_325",
+      "author_annotation_fields": {
+        "id": "53",
+        "MERSCOPE roi": "GPi",
+        "roi_composition": "GPi",
+        "cluster_size": "551",
+        "gene_counts": "7919",
+        "umi_counts": "63447",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "MSN_78",
+      "cell_set_accession": "AIT117_78",
+      "parent_cell_set_accession": "AIT117_321",
+      "author_annotation_fields": {
+        "id": "1",
+        "MERSCOPE roi": "None",
+        "roi_composition": "NAC",
+        "cluster_size": "1587",
+        "gene_counts": "1561",
+        "umi_counts": "2778",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "MSN_79",
+      "cell_set_accession": "AIT117_79",
+      "parent_cell_set_accession": "AIT117_321",
+      "author_annotation_fields": {
+        "id": "2",
+        "MERSCOPE roi": "64_MSN similar pattern",
+        "roi_composition": "NAC",
+        "cluster_size": "1551",
+        "gene_counts": "2693",
+        "umi_counts": "6165",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "MSN_80",
+      "cell_set_accession": "AIT117_80",
+      "parent_cell_set_accession": "AIT117_321",
+      "author_annotation_fields": {
+        "id": "3",
+        "MERSCOPE roi": "None",
+        "roi_composition": "NAC",
+        "cluster_size": "206",
+        "gene_counts": "2409",
+        "umi_counts": "5278",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "MSN_23",
+      "cell_set_accession": "AIT117_23",
+      "parent_cell_set_accession": "AIT117_326",
+      "author_annotation_fields": {
+        "id": "190",
+        "MERSCOPE roi": "None",
+        "roi_composition": "PuR(0.33) | NAC(0.2) | CaH(0.15) | PuC(0.09) | GPe(0.09) | CaB(0.08)",
+        "cluster_size": "1006",
+        "gene_counts": "2884",
+        "umi_counts": "7514",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "MSN_24",
+      "cell_set_accession": "AIT117_24",
+      "parent_cell_set_accession": "AIT117_326",
+      "author_annotation_fields": {
+        "id": "191",
+        "MERSCOPE roi": "None",
+        "roi_composition": "NAC(0.91)",
+        "cluster_size": "2174",
+        "gene_counts": "3280",
+        "umi_counts": "8701",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "MSN_25",
+      "cell_set_accession": "AIT117_25",
+      "parent_cell_set_accession": "AIT117_326",
+      "author_annotation_fields": {
+        "id": "192",
+        "MERSCOPE roi": "None",
+        "roi_composition": "NAC(0.91)",
+        "cluster_size": "2592",
+        "gene_counts": "2985",
+        "umi_counts": "7131",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "MSN_26",
+      "cell_set_accession": "AIT117_26",
+      "parent_cell_set_accession": "AIT117_326",
+      "author_annotation_fields": {
+        "id": "193",
+        "MERSCOPE roi": "None",
+        "roi_composition": "NAC(0.86)",
+        "cluster_size": "1178",
+        "gene_counts": "3186",
+        "umi_counts": "8158",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "MSN_27",
+      "cell_set_accession": "AIT117_27",
+      "parent_cell_set_accession": "AIT117_326",
+      "author_annotation_fields": {
+        "id": "194",
+        "MERSCOPE roi": "None",
+        "roi_composition": "NAC(0.87)",
+        "cluster_size": "717",
+        "gene_counts": "2902",
+        "umi_counts": "6708",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "MSN_28",
+      "cell_set_accession": "AIT117_28",
+      "parent_cell_set_accession": "AIT117_326",
+      "author_annotation_fields": {
+        "id": "195",
+        "MERSCOPE roi": "None",
+        "roi_composition": "NAC(0.9)",
+        "cluster_size": "1325",
+        "gene_counts": "3617",
+        "umi_counts": "10196",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "MSN_29",
+      "cell_set_accession": "AIT117_29",
+      "parent_cell_set_accession": "AIT117_326",
+      "author_annotation_fields": {
+        "id": "196",
+        "MERSCOPE roi": "None",
+        "roi_composition": "GPi(0.42) | NAC(0.22) | PuPV(0.17) | CaT(0.08) | GPe(0.07)",
+        "cluster_size": "285",
+        "gene_counts": "1713",
+        "umi_counts": "3828",
+        "Notes _AA": "None",
+        "Notes_NJJ": "Predoiminatly GPi? Should this be an MSN?",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "MSN_30",
+      "cell_set_accession": "AIT117_30",
+      "parent_cell_set_accession": "AIT117_326",
+      "author_annotation_fields": {
+        "id": "198",
+        "MERSCOPE roi": "None",
+        "roi_composition": "NAC(0.85) | CaT(0.08)",
+        "cluster_size": "267",
+        "gene_counts": "1778",
+        "umi_counts": "3908",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "MSN_14",
+      "cell_set_accession": "AIT117_14",
+      "parent_cell_set_accession": "AIT117_327",
+      "author_annotation_fields": {
+        "id": "181",
+        "MERSCOPE roi": "None",
+        "roi_composition": "CaH(0.71) | PuR(0.16) | CaB(0.06)",
+        "cluster_size": "4708",
+        "gene_counts": "3654",
+        "umi_counts": "12333",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "MSN_15",
+      "cell_set_accession": "AIT117_15",
+      "parent_cell_set_accession": "AIT117_327",
+      "author_annotation_fields": {
+        "id": "182",
+        "MERSCOPE roi": "None",
+        "roi_composition": "PuR(0.37) | PuC(0.32) | CaB(0.11) | PuPV(0.09) | CaH(0.08)",
+        "cluster_size": "2581",
+        "gene_counts": "3826",
+        "umi_counts": "13265",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "MSN_16",
+      "cell_set_accession": "AIT117_16",
+      "parent_cell_set_accession": "AIT117_327",
+      "author_annotation_fields": {
+        "id": "183",
+        "MERSCOPE roi": "None",
+        "roi_composition": "CaB(0.35) | NAC(0.14) | PuC(0.13) | PuPV(0.12) | PuR(0.09) | GPe(0.07) | CaT(0.06)",
+        "cluster_size": "1166",
+        "gene_counts": "3957",
+        "umi_counts": "13843",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "MSN_17",
+      "cell_set_accession": "AIT117_17",
+      "parent_cell_set_accession": "AIT117_327",
+      "author_annotation_fields": {
+        "id": "184",
+        "MERSCOPE roi": "None",
+        "roi_composition": "CaB(0.54) | CaT(0.15) | PuPV(0.15)",
+        "cluster_size": "1906",
+        "gene_counts": "4216",
+        "umi_counts": "15599",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "MSN_19",
+      "cell_set_accession": "AIT117_19",
+      "parent_cell_set_accession": "AIT117_327",
+      "author_annotation_fields": {
+        "id": "185",
+        "MERSCOPE roi": "None",
+        "roi_composition": "PuC(0.65) | CaT(0.12) | NAC(0.08) | GPi(0.07) | PuPV(0.06)",
+        "cluster_size": "871",
+        "gene_counts": "2623",
+        "umi_counts": "8256",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "MSN_20",
+      "cell_set_accession": "AIT117_20",
+      "parent_cell_set_accession": "AIT117_327",
+      "author_annotation_fields": {
+        "id": "187",
+        "MERSCOPE roi": "None",
+        "roi_composition": "CaT(0.48) | PuPV(0.25) | NAC(0.16)",
+        "cluster_size": "2710",
+        "gene_counts": "2254",
+        "umi_counts": "6236",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "MSN_21",
+      "cell_set_accession": "AIT117_21",
+      "parent_cell_set_accession": "AIT117_327",
+      "author_annotation_fields": {
+        "id": "188",
+        "MERSCOPE roi": "None",
+        "roi_composition": "PuPV(0.44) | NAC(0.41) | CaT(0.11)",
+        "cluster_size": "570",
+        "gene_counts": "2093",
+        "umi_counts": "5282",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "MSN_53",
+      "cell_set_accession": "AIT117_53",
+      "parent_cell_set_accession": "AIT117_328",
+      "author_annotation_fields": {
+        "id": "216",
+        "MERSCOPE roi": "None",
+        "roi_composition": "CaH(0.36) | PuR(0.24) | CaB(0.2) | PuC(0.08)",
+        "cluster_size": "2493",
+        "gene_counts": "4142",
+        "umi_counts": "15998",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "MSN_54",
+      "cell_set_accession": "AIT117_54",
+      "parent_cell_set_accession": "AIT117_328",
+      "author_annotation_fields": {
+        "id": "217",
+        "MERSCOPE roi": "None",
+        "roi_composition": "CaT(0.44) | PuC(0.23) | NAC(0.15) | PuPV(0.09)",
+        "cluster_size": "757",
+        "gene_counts": "2707",
+        "umi_counts": "8779",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "MSN_55",
+      "cell_set_accession": "AIT117_55",
+      "parent_cell_set_accession": "AIT117_328",
+      "author_annotation_fields": {
+        "id": "218",
+        "MERSCOPE roi": "None",
+        "roi_composition": "PuC(0.43) | PuR(0.36) | CaB(0.11)",
+        "cluster_size": "284",
+        "gene_counts": "3831",
+        "umi_counts": "15288",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "IN_43",
+      "cell_set_accession": "AIT117_227",
+      "parent_cell_set_accession": "AIT117_329",
+      "author_annotation_fields": {
+        "id": "122",
+        "MERSCOPE roi": "Thalamus",
+        "roi_composition": "SN-VTA(0.31) | GPe(0.23) | STH(0.23) | CaB(0.12)",
+        "cluster_size": "91",
+        "gene_counts": "3404",
+        "umi_counts": "9189",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "IN_44",
+      "cell_set_accession": "AIT117_228",
+      "parent_cell_set_accession": "AIT117_329",
+      "author_annotation_fields": {
+        "id": "123",
+        "MERSCOPE roi": "Thalamus",
+        "roi_composition": "SN-VTA(0.5) | STH(0.44)",
+        "cluster_size": "136",
+        "gene_counts": "1613",
+        "umi_counts": "3530",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "IN_45",
+      "cell_set_accession": "AIT117_45",
+      "parent_cell_set_accession": "AIT117_329",
+      "author_annotation_fields": {
+        "id": "124",
+        "MERSCOPE roi": "Thalamus",
+        "roi_composition": "STH(0.45) | SN-VTA(0.33) | GPe(0.08) | NAC(0.07)",
+        "cluster_size": "458",
+        "gene_counts": "3409",
+        "umi_counts": "9846",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "IN_46",
+      "cell_set_accession": "AIT117_46",
+      "parent_cell_set_accession": "AIT117_329",
+      "author_annotation_fields": {
+        "id": "125",
+        "MERSCOPE roi": "Thalamus",
+        "roi_composition": "SN-VTA(0.7) | STH(0.2)",
+        "cluster_size": "702",
+        "gene_counts": "4806",
+        "umi_counts": "18862",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "IN_47",
+      "cell_set_accession": "AIT117_229",
+      "parent_cell_set_accession": "AIT117_329",
+      "author_annotation_fields": {
+        "id": "126",
+        "MERSCOPE roi": "Thalamus",
+        "roi_composition": "SN-VTA(0.83) | STH(0.11)",
+        "cluster_size": "85",
+        "gene_counts": "4599",
+        "umi_counts": "17247",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "IN_48",
+      "cell_set_accession": "AIT117_48",
+      "parent_cell_set_accession": "AIT117_329",
+      "author_annotation_fields": {
+        "id": "127",
+        "MERSCOPE roi": "Thalamus",
+        "roi_composition": "STH(0.59) | SN-VTA(0.2) | GPe(0.13) | CaB(0.06)",
+        "cluster_size": "1457",
+        "gene_counts": "3572",
+        "umi_counts": "10979",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "IN_49",
+      "cell_set_accession": "AIT117_230",
+      "parent_cell_set_accession": "AIT117_329",
+      "author_annotation_fields": {
+        "id": "128",
+        "MERSCOPE roi": "Thalamus",
+        "roi_composition": "GPe(0.93)",
+        "cluster_size": "183",
+        "gene_counts": "4101",
+        "umi_counts": "13890",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "IN_115",
+      "cell_set_accession": "AIT117_115",
+      "parent_cell_set_accession": "AIT117_361",
+      "author_annotation_fields": {
+        "id": "15",
+        "MERSCOPE roi": "Not NAc",
+        "roi_composition": "NAC(0.93) | GPe(0.06)",
+        "cluster_size": "238",
+        "gene_counts": "3745",
+        "umi_counts": "10364",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "IN_116",
+      "cell_set_accession": "AIT117_116",
+      "parent_cell_set_accession": "AIT117_361",
+      "author_annotation_fields": {
+        "id": "16",
+        "MERSCOPE roi": "Not NAc",
+        "roi_composition": "NAC(0.83) | CaH(0.1) | CaB(0.06)",
+        "cluster_size": "123",
+        "gene_counts": "3852",
+        "umi_counts": "11384",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "IN_158",
+      "cell_set_accession": "AIT117_158",
+      "parent_cell_set_accession": "AIT117_361",
+      "author_annotation_fields": {
+        "id": "33",
+        "MERSCOPE roi": "Not NAc",
+        "roi_composition": "NAC(0.96)",
+        "cluster_size": "168",
+        "gene_counts": "3785.5",
+        "umi_counts": "10043",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "IN_159",
+      "cell_set_accession": "AIT117_159",
+      "parent_cell_set_accession": "AIT117_361",
+      "author_annotation_fields": {
+        "id": "34",
+        "MERSCOPE roi": "Not NAc",
+        "roi_composition": "NAC(0.96)",
+        "cluster_size": "157",
+        "gene_counts": "4116",
+        "umi_counts": "11385",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "IN_160",
+      "cell_set_accession": "AIT117_160",
+      "parent_cell_set_accession": "AIT117_361",
+      "author_annotation_fields": {
+        "id": "36",
+        "MERSCOPE roi": "Not NAc",
+        "roi_composition": "NAC(0.68) | GPi(0.22)",
+        "cluster_size": "120",
+        "gene_counts": "4292",
+        "umi_counts": "12939.5",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "IN_161",
+      "cell_set_accession": "AIT117_161",
+      "parent_cell_set_accession": "AIT117_361",
+      "author_annotation_fields": {
+        "id": "37",
+        "MERSCOPE roi": "Not NAc",
+        "roi_composition": "NAC(0.94)",
+        "cluster_size": "254",
+        "gene_counts": "4166",
+        "umi_counts": "11907.5",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "IN_162",
+      "cell_set_accession": "AIT117_162",
+      "parent_cell_set_accession": "AIT117_361",
+      "author_annotation_fields": {
+        "id": "38",
+        "MERSCOPE roi": "Not NAc",
+        "roi_composition": "NAC",
+        "cluster_size": "245",
+        "gene_counts": "4028",
+        "umi_counts": "11143",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "IN_163",
+      "cell_set_accession": "AIT117_163",
+      "parent_cell_set_accession": "AIT117_361",
+      "author_annotation_fields": {
+        "id": "39",
+        "MERSCOPE roi": "Not NAc",
+        "roi_composition": "NAC",
+        "cluster_size": "79",
+        "gene_counts": "4262",
+        "umi_counts": "11878",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "IN_61",
+      "cell_set_accession": "AIT117_231",
+      "parent_cell_set_accession": "AIT117_361",
+      "author_annotation_fields": {
+        "id": "138",
+        "MERSCOPE roi": "Not NAc",
+        "roi_composition": "NAC(0.56) | GPi(0.18) | PuPV(0.13) | CaT(0.06)",
+        "cluster_size": "126",
+        "gene_counts": "3327",
+        "umi_counts": "7993.5",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "IN_62",
+      "cell_set_accession": "AIT117_232",
+      "parent_cell_set_accession": "AIT117_361",
+      "author_annotation_fields": {
+        "id": "139",
+        "MERSCOPE roi": "Not NAc",
+        "roi_composition": "NAC(0.79) | GPi(0.14)",
+        "cluster_size": "156",
+        "gene_counts": "4493",
+        "umi_counts": "13877.5",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "IN_63",
+      "cell_set_accession": "AIT117_233",
+      "parent_cell_set_accession": "AIT117_361",
+      "author_annotation_fields": {
+        "id": "140",
+        "MERSCOPE roi": "Not NAc",
+        "roi_composition": "NAC(0.76) | GPi(0.13)",
+        "cluster_size": "341",
+        "gene_counts": "3593.5",
+        "umi_counts": "9290",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "IN_64",
+      "cell_set_accession": "AIT117_234",
+      "parent_cell_set_accession": "AIT117_361",
+      "author_annotation_fields": {
+        "id": "141",
+        "MERSCOPE roi": "Not NAc",
+        "roi_composition": "NAC(0.91)",
+        "cluster_size": "71",
+        "gene_counts": "3482.5",
+        "umi_counts": "8887",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "IN_65",
+      "cell_set_accession": "AIT117_235",
+      "parent_cell_set_accession": "AIT117_361",
+      "author_annotation_fields": {
+        "id": "142",
+        "MERSCOPE roi": "Not NAc",
+        "roi_composition": "NAC(0.93)",
+        "cluster_size": "100",
+        "gene_counts": "3766.5",
+        "umi_counts": "10337.5",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "IN_66",
+      "cell_set_accession": "AIT117_236",
+      "parent_cell_set_accession": "AIT117_361",
+      "author_annotation_fields": {
+        "id": "143",
+        "MERSCOPE roi": "Not NAc",
+        "roi_composition": "NAC(0.94) | GPe(0.06)",
+        "cluster_size": "107",
+        "gene_counts": "3800.5",
+        "umi_counts": "10223",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "IN_67",
+      "cell_set_accession": "AIT117_237",
+      "parent_cell_set_accession": "AIT117_361",
+      "author_annotation_fields": {
+        "id": "144",
+        "MERSCOPE roi": "Not NAc",
+        "roi_composition": "NAC(0.74) | PuPV(0.09) | GPe(0.07)",
+        "cluster_size": "191",
+        "gene_counts": "3700.5",
+        "umi_counts": "10708.5",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "IN_68",
+      "cell_set_accession": "AIT117_238",
+      "parent_cell_set_accession": "AIT117_361",
+      "author_annotation_fields": {
+        "id": "145",
+        "MERSCOPE roi": "Not NAc",
+        "roi_composition": "NAC(0.95)",
+        "cluster_size": "97",
+        "gene_counts": "3877",
+        "umi_counts": "11108",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "IN_85",
+      "cell_set_accession": "AIT117_85",
+      "parent_cell_set_accession": "AIT117_361",
+      "author_annotation_fields": {
+        "id": "160",
+        "MERSCOPE roi": "Not NAc",
+        "roi_composition": "NAC(0.97)",
+        "cluster_size": "204",
+        "gene_counts": "3890",
+        "umi_counts": "10239",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "IN_86",
+      "cell_set_accession": "AIT117_86",
+      "parent_cell_set_accession": "AIT117_361",
+      "author_annotation_fields": {
+        "id": "161",
+        "MERSCOPE roi": "Not NAc",
+        "roi_composition": "NAC(0.96)",
+        "cluster_size": "275",
+        "gene_counts": "4033",
+        "umi_counts": "10840",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "IN_87",
+      "cell_set_accession": "AIT117_239",
+      "parent_cell_set_accession": "AIT117_361",
+      "author_annotation_fields": {
+        "id": "162",
+        "MERSCOPE roi": "Not NAc",
+        "roi_composition": "NAC(0.82) | GPi(0.09)",
+        "cluster_size": "773",
+        "gene_counts": "4059",
+        "umi_counts": "11658",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "IN_88",
+      "cell_set_accession": "AIT117_240",
+      "parent_cell_set_accession": "AIT117_361",
+      "author_annotation_fields": {
+        "id": "163",
+        "MERSCOPE roi": "Not NAc",
+        "roi_composition": "NAC(0.96)",
+        "cluster_size": "712",
+        "gene_counts": "3614",
+        "umi_counts": "9739",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "IN_89",
+      "cell_set_accession": "AIT117_241",
+      "parent_cell_set_accession": "AIT117_361",
+      "author_annotation_fields": {
+        "id": "164",
+        "MERSCOPE roi": "Not NAc",
+        "roi_composition": "NAC(0.95)",
+        "cluster_size": "473",
+        "gene_counts": "4388",
+        "umi_counts": "12862.5",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "IN_90",
+      "cell_set_accession": "AIT117_242",
+      "parent_cell_set_accession": "AIT117_330",
+      "author_annotation_fields": {
+        "id": "166",
+        "MERSCOPE roi": "Not NAc",
+        "roi_composition": "NAC(0.37) | GPi(0.22) | GPe(0.17) | PuPV(0.13)",
+        "cluster_size": "485",
+        "gene_counts": "3932",
+        "umi_counts": "13146",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "IN_91",
+      "cell_set_accession": "AIT117_91",
+      "parent_cell_set_accession": "AIT117_330",
+      "author_annotation_fields": {
+        "id": "167",
+        "MERSCOPE roi": "Not NAc",
+        "roi_composition": "NAC(0.66) | GPi(0.25)",
+        "cluster_size": "300",
+        "gene_counts": "4176",
+        "umi_counts": "12099",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "IN_92",
+      "cell_set_accession": "AIT117_92",
+      "parent_cell_set_accession": "AIT117_330",
+      "author_annotation_fields": {
+        "id": "168",
+        "MERSCOPE roi": "GPe",
+        "roi_composition": "GPe(0.45) | GPi(0.32) | NAC(0.12) | PuC(0.09)",
+        "cluster_size": "341",
+        "gene_counts": "6345.5",
+        "umi_counts": "33054",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "IN_93",
+      "cell_set_accession": "AIT117_93",
+      "parent_cell_set_accession": "AIT117_330",
+      "author_annotation_fields": {
+        "id": "169",
+        "MERSCOPE roi": "GPe",
+        "roi_composition": "GPe(0.67) | GPi(0.28) | PuC(0.06)",
+        "cluster_size": "89",
+        "gene_counts": "5919",
+        "umi_counts": "30440.5",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "IN_94",
+      "cell_set_accession": "AIT117_94",
+      "parent_cell_set_accession": "AIT117_330",
+      "author_annotation_fields": {
+        "id": "170",
+        "MERSCOPE roi": "GPe",
+        "roi_composition": "GPe(0.65) | GPi(0.28)",
+        "cluster_size": "352",
+        "gene_counts": "3889",
+        "umi_counts": "14442.5",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "IN_198",
+      "cell_set_accession": "AIT117_198",
+      "parent_cell_set_accession": "AIT117_331",
+      "author_annotation_fields": {
+        "id": "71",
+        "MERSCOPE roi": "SN",
+        "roi_composition": "SN-VTA",
+        "cluster_size": "71",
+        "gene_counts": "6878",
+        "umi_counts": "41362",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "IN_227",
+      "cell_set_accession": "AIT117_243",
+      "parent_cell_set_accession": "AIT117_331",
+      "author_annotation_fields": {
+        "id": "100",
+        "MERSCOPE roi": "SN",
+        "roi_composition": "STH(0.54) | SN-VTA(0.34) | GPe(0.12)",
+        "cluster_size": "101",
+        "gene_counts": "4745",
+        "umi_counts": "16507",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "IN_228",
+      "cell_set_accession": "AIT117_244",
+      "parent_cell_set_accession": "AIT117_331",
+      "author_annotation_fields": {
+        "id": "101",
+        "MERSCOPE roi": "SN",
+        "roi_composition": "STH(0.75) | SN-VTA(0.24)",
+        "cluster_size": "205",
+        "gene_counts": "5715.5",
+        "umi_counts": "23495.5",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "IN_229",
+      "cell_set_accession": "AIT117_245",
+      "parent_cell_set_accession": "AIT117_331",
+      "author_annotation_fields": {
+        "id": "102",
+        "MERSCOPE roi": "SN",
+        "roi_composition": "STH(0.74) | SN-VTA(0.24)",
+        "cluster_size": "66",
+        "gene_counts": "5893.5",
+        "umi_counts": "26213",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "IN_230",
+      "cell_set_accession": "AIT117_246",
+      "parent_cell_set_accession": "AIT117_331",
+      "author_annotation_fields": {
+        "id": "104",
+        "MERSCOPE roi": "SN",
+        "roi_composition": "STH(0.57) | SN-VTA(0.29) | GPe(0.14)",
+        "cluster_size": "114",
+        "gene_counts": "6474",
+        "umi_counts": "29987",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "IN_193",
+      "cell_set_accession": "AIT117_193",
+      "parent_cell_set_accession": "AIT117_362",
+      "author_annotation_fields": {
+        "id": "66",
+        "MERSCOPE roi": "None",
+        "roi_composition": "SN-VTA(0.48) | STH(0.43) | GPe(0.07)",
+        "cluster_size": "392",
+        "gene_counts": "5829.5",
+        "umi_counts": "24803.5",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "IN_191",
+      "cell_set_accession": "AIT117_191",
+      "parent_cell_set_accession": "AIT117_362",
+      "author_annotation_fields": {
+        "id": "64",
+        "MERSCOPE roi": "None",
+        "roi_composition": "SN-VTA(0.87) | GPe(0.06)",
+        "cluster_size": "568",
+        "gene_counts": "6032",
+        "umi_counts": "26185",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "IN_196",
+      "cell_set_accession": "AIT117_196",
+      "parent_cell_set_accession": "AIT117_332",
+      "author_annotation_fields": {
+        "id": "69",
+        "MERSCOPE roi": "None",
+        "roi_composition": "SN-VTA(0.45) | STH(0.33) | GPe(0.21)",
+        "cluster_size": "99",
+        "gene_counts": "6687",
+        "umi_counts": "35229",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "IN_197",
+      "cell_set_accession": "AIT117_197",
+      "parent_cell_set_accession": "AIT117_332",
+      "author_annotation_fields": {
+        "id": "70",
+        "MERSCOPE roi": "None",
+        "roi_composition": "SN-VTA(0.62) | STH(0.29) | GPe(0.09)",
+        "cluster_size": "283",
+        "gene_counts": "6636",
+        "umi_counts": "32389.5",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "IN_238",
+      "cell_set_accession": "AIT117_247",
+      "parent_cell_set_accession": "AIT117_332",
+      "author_annotation_fields": {
+        "id": "107",
+        "MERSCOPE roi": "None",
+        "roi_composition": "SN-VTA(0.62) | STH(0.21) | GPe(0.17)",
+        "cluster_size": "313",
+        "gene_counts": "6332",
+        "umi_counts": "31744",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "IN_192",
+      "cell_set_accession": "AIT117_192",
+      "parent_cell_set_accession": "AIT117_331",
+      "author_annotation_fields": {
+        "id": "65",
+        "MERSCOPE roi": "None",
+        "roi_composition": "STH(0.6) | SN-VTA(0.38)",
+        "cluster_size": "216",
+        "gene_counts": "5414",
+        "umi_counts": "20420.5",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "IN_194",
+      "cell_set_accession": "AIT117_194",
+      "parent_cell_set_accession": "AIT117_331",
+      "author_annotation_fields": {
+        "id": "67",
+        "MERSCOPE roi": "None",
+        "roi_composition": "STH(0.79) | SN-VTA(0.18)",
+        "cluster_size": "133",
+        "gene_counts": "4399",
+        "umi_counts": "13292",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "IN_195",
+      "cell_set_accession": "AIT117_195",
+      "parent_cell_set_accession": "AIT117_331",
+      "author_annotation_fields": {
+        "id": "68",
+        "MERSCOPE roi": "None",
+        "roi_composition": "STH(0.75) | SN-VTA(0.23)",
+        "cluster_size": "275",
+        "gene_counts": "5023",
+        "umi_counts": "17683",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "IN_10",
+      "cell_set_accession": "AIT117_248",
+      "parent_cell_set_accession": "AIT117_333",
+      "author_annotation_fields": {
+        "id": "5",
+        "MERSCOPE roi": "STR",
+        "roi_composition": "NAC(0.89)",
+        "cluster_size": "246",
+        "gene_counts": "3363",
+        "umi_counts": "8853",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "IN_18",
+      "cell_set_accession": "AIT117_18",
+      "parent_cell_set_accession": "AIT117_333",
+      "author_annotation_fields": {
+        "id": "56",
+        "MERSCOPE roi": "STR",
+        "roi_composition": "CaB(0.19) | NAC(0.15) | PuC(0.15) | PuR(0.15) | CaH(0.14) | CaT(0.12) | PuPV(0.07)",
+        "cluster_size": "147",
+        "gene_counts": "3752",
+        "umi_counts": "11893",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "IN_5",
+      "cell_set_accession": "AIT117_249",
+      "parent_cell_set_accession": "AIT117_333",
+      "author_annotation_fields": {
+        "id": "129",
+        "MERSCOPE roi": "STR",
+        "roi_composition": "CaH(0.31) | CaB(0.19) | PuR(0.14) | PuC(0.12) | CaT(0.12) | NAC(0.07)",
+        "cluster_size": "1494",
+        "gene_counts": "3864",
+        "umi_counts": "12848.5",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "IN_6",
+      "cell_set_accession": "AIT117_250",
+      "parent_cell_set_accession": "AIT117_333",
+      "author_annotation_fields": {
+        "id": "136",
+        "MERSCOPE roi": "STR",
+        "roi_composition": "CaT(0.22) | NAC(0.21) | CaH(0.16) | PuPV(0.12) | PuR(0.09) | GPe(0.07)",
+        "cluster_size": "152",
+        "gene_counts": "3129",
+        "umi_counts": "9241",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "IN_7",
+      "cell_set_accession": "AIT117_251",
+      "parent_cell_set_accession": "AIT117_333",
+      "author_annotation_fields": {
+        "id": "146",
+        "MERSCOPE roi": "STR",
+        "roi_composition": "NAC(0.46) | PuPV(0.24) | CaT(0.11) | CaB(0.06)",
+        "cluster_size": "491",
+        "gene_counts": "3006",
+        "umi_counts": "9152",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "IN_8",
+      "cell_set_accession": "AIT117_252",
+      "parent_cell_set_accession": "AIT117_333",
+      "author_annotation_fields": {
+        "id": "155",
+        "MERSCOPE roi": "STR",
+        "roi_composition": "NAC(0.32) | CaT(0.19) | PuPV(0.18) | CaB(0.16) | PuC(0.1)",
+        "cluster_size": "311",
+        "gene_counts": "3044",
+        "umi_counts": "10314",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "IN_80",
+      "cell_set_accession": "AIT117_253",
+      "parent_cell_set_accession": "AIT117_333",
+      "author_annotation_fields": {
+        "id": "156",
+        "MERSCOPE roi": "STR",
+        "roi_composition": "NAC(0.35) | GPe(0.17) | CaB(0.12) | CaT(0.08) | CaH(0.08) | PuC(0.08) | PuPV(0.08)",
+        "cluster_size": "183",
+        "gene_counts": "3626",
+        "umi_counts": "9870",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "IN_9",
+      "cell_set_accession": "AIT117_254",
+      "parent_cell_set_accession": "AIT117_333",
+      "author_annotation_fields": {
+        "id": "165",
+        "MERSCOPE roi": "STR",
+        "roi_composition": "NAC(0.85)",
+        "cluster_size": "737",
+        "gene_counts": "3419.5",
+        "umi_counts": "8715.5",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "IN_100",
+      "cell_set_accession": "AIT117_100",
+      "parent_cell_set_accession": "AIT117_334",
+      "author_annotation_fields": {
+        "id": "6",
+        "MERSCOPE roi": "SI?",
+        "roi_composition": "NAC(0.95)",
+        "cluster_size": "247",
+        "gene_counts": "3757.5",
+        "umi_counts": "10082",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "IN_99",
+      "cell_set_accession": "AIT117_99",
+      "parent_cell_set_accession": "AIT117_334",
+      "author_annotation_fields": {
+        "id": "175",
+        "MERSCOPE roi": "SI?",
+        "roi_composition": "NAC",
+        "cluster_size": "481",
+        "gene_counts": "3736.5",
+        "umi_counts": "10081.5",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "IN_51",
+      "cell_set_accession": "AIT117_255",
+      "parent_cell_set_accession": "AIT117_335",
+      "author_annotation_fields": {
+        "id": "131",
+        "MERSCOPE roi": "Extra striatum pattern",
+        "roi_composition": "NAC(0.38) | CaT(0.21) | CaB(0.1) | CaH(0.08) | PuPV(0.08) | PuR(0.08)",
+        "cluster_size": "471",
+        "gene_counts": "3052",
+        "umi_counts": "8615",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "IN_189",
+      "cell_set_accession": "AIT117_189",
+      "parent_cell_set_accession": "AIT117_362",
+      "author_annotation_fields": {
+        "id": "61",
+        "MERSCOPE roi": "SN",
+        "roi_composition": "STH(0.86) | SN-VTA(0.13)",
+        "cluster_size": "238",
+        "gene_counts": "4632",
+        "umi_counts": "14783",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "IN_164",
+      "cell_set_accession": "AIT117_164",
+      "parent_cell_set_accession": "AIT117_362",
+      "author_annotation_fields": {
+        "id": "40",
+        "MERSCOPE roi": "SN",
+        "roi_composition": "STH(0.85) | SN-VTA(0.08)",
+        "cluster_size": "306",
+        "gene_counts": "5164",
+        "umi_counts": "18295",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "IN_165",
+      "cell_set_accession": "AIT117_165",
+      "parent_cell_set_accession": "AIT117_362",
+      "author_annotation_fields": {
+        "id": "41",
+        "MERSCOPE roi": "SN",
+        "roi_composition": "STH(0.96)",
+        "cluster_size": "466",
+        "gene_counts": "5345",
+        "umi_counts": "19420",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "IN_166",
+      "cell_set_accession": "AIT117_166",
+      "parent_cell_set_accession": "AIT117_362",
+      "author_annotation_fields": {
+        "id": "42",
+        "MERSCOPE roi": "SN",
+        "roi_composition": "STH(0.9) | SN-VTA(0.07)",
+        "cluster_size": "775",
+        "gene_counts": "4855",
+        "umi_counts": "15936",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "IN_167",
+      "cell_set_accession": "AIT117_167",
+      "parent_cell_set_accession": "AIT117_362",
+      "author_annotation_fields": {
+        "id": "43",
+        "MERSCOPE roi": "SN",
+        "roi_composition": "STH(0.94) | SN-VTA(0.06)",
+        "cluster_size": "210",
+        "gene_counts": "5721",
+        "umi_counts": "22577.5",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "IN_168",
+      "cell_set_accession": "AIT117_168",
+      "parent_cell_set_accession": "AIT117_362",
+      "author_annotation_fields": {
+        "id": "44",
+        "MERSCOPE roi": "SN",
+        "roi_composition": "STH(0.86) | SN-VTA(0.12)",
+        "cluster_size": "172",
+        "gene_counts": "4474.5",
+        "umi_counts": "13374.5",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "IN_169",
+      "cell_set_accession": "AIT117_169",
+      "parent_cell_set_accession": "AIT117_362",
+      "author_annotation_fields": {
+        "id": "45",
+        "MERSCOPE roi": "SN",
+        "roi_composition": "STH(0.94)",
+        "cluster_size": "120",
+        "gene_counts": "5094.5",
+        "umi_counts": "17354",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "IN_170",
+      "cell_set_accession": "AIT117_170",
+      "parent_cell_set_accession": "AIT117_362",
+      "author_annotation_fields": {
+        "id": "46",
+        "MERSCOPE roi": "SN",
+        "roi_composition": "STH(0.96)",
+        "cluster_size": "116",
+        "gene_counts": "4771",
+        "umi_counts": "15546.5",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "IN_190",
+      "cell_set_accession": "AIT117_190",
+      "parent_cell_set_accession": "AIT117_362",
+      "author_annotation_fields": {
+        "id": "63",
+        "MERSCOPE roi": "SN",
+        "roi_composition": "STH",
+        "cluster_size": "232",
+        "gene_counts": "6065",
+        "umi_counts": "27182",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "IN_19",
+      "cell_set_accession": "AIT117_256",
+      "parent_cell_set_accession": "AIT117_364",
+      "author_annotation_fields": {
+        "id": "62",
+        "MERSCOPE roi": "None",
+        "roi_composition": "PuR(0.27) | PuC(0.27) | CaH(0.12) | CaB(0.11) | CaT(0.1)",
+        "cluster_size": "774",
+        "gene_counts": "5074",
+        "umi_counts": "23546",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "IN_20",
+      "cell_set_accession": "AIT117_257",
+      "parent_cell_set_accession": "AIT117_364",
+      "author_annotation_fields": {
+        "id": "74",
+        "MERSCOPE roi": "None",
+        "roi_composition": "NAC(0.79) | PuPV(0.11) | GPi(0.06)",
+        "cluster_size": "316",
+        "gene_counts": "4103",
+        "umi_counts": "13591",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "IN_124",
+      "cell_set_accession": "AIT117_124",
+      "parent_cell_set_accession": "AIT117_364",
+      "author_annotation_fields": {
+        "id": "20",
+        "MERSCOPE roi": "None",
+        "roi_composition": "NAC(0.85) | GPe(0.06) | GPi(0.06)",
+        "cluster_size": "594",
+        "gene_counts": "5711.5",
+        "umi_counts": "24262.5",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "IN_125",
+      "cell_set_accession": "AIT117_125",
+      "parent_cell_set_accession": "AIT117_364",
+      "author_annotation_fields": {
+        "id": "21",
+        "MERSCOPE roi": "None",
+        "roi_composition": "NAC(0.95)",
+        "cluster_size": "421",
+        "gene_counts": "5212",
+        "umi_counts": "20184",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "IN_126",
+      "cell_set_accession": "AIT117_126",
+      "parent_cell_set_accession": "AIT117_364",
+      "author_annotation_fields": {
+        "id": "22",
+        "MERSCOPE roi": "None",
+        "roi_composition": "GPi(0.7) | NAC(0.19) | GPe(0.08)",
+        "cluster_size": "106",
+        "gene_counts": "7738",
+        "umi_counts": "56781",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "IN_127",
+      "cell_set_accession": "AIT117_127",
+      "parent_cell_set_accession": "AIT117_364",
+      "author_annotation_fields": {
+        "id": "23",
+        "MERSCOPE roi": "None",
+        "roi_composition": "PuPV(0.35) | NAC(0.35) | GPi(0.25)",
+        "cluster_size": "156",
+        "gene_counts": "3972",
+        "umi_counts": "14626.5",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "IN_21",
+      "cell_set_accession": "AIT117_258",
+      "parent_cell_set_accession": "AIT117_336",
+      "author_annotation_fields": {
+        "id": "84",
+        "MERSCOPE roi": "None",
+        "roi_composition": "CaH(0.29) | CaB(0.22) | PuC(0.18) | PuR(0.18) | CaT(0.07)",
+        "cluster_size": "4104",
+        "gene_counts": "3938.5",
+        "umi_counts": "12287.5",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "IN_22",
+      "cell_set_accession": "AIT117_259",
+      "parent_cell_set_accession": "AIT117_336",
+      "author_annotation_fields": {
+        "id": "95",
+        "MERSCOPE roi": "None",
+        "roi_composition": "CaH(0.51) | CaB(0.26) | NAC(0.07) | PuR(0.07)",
+        "cluster_size": "1758",
+        "gene_counts": "3706",
+        "umi_counts": "11101",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "IN_23",
+      "cell_set_accession": "AIT117_260",
+      "parent_cell_set_accession": "AIT117_336",
+      "author_annotation_fields": {
+        "id": "103",
+        "MERSCOPE roi": "None",
+        "roi_composition": "CaH(0.31) | PuR(0.29) | PuC(0.15) | CaB(0.1) | PuPV(0.06)",
+        "cluster_size": "342",
+        "gene_counts": "3991",
+        "umi_counts": "12850",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "IN_24",
+      "cell_set_accession": "AIT117_261",
+      "parent_cell_set_accession": "AIT117_336",
+      "author_annotation_fields": {
+        "id": "108",
+        "MERSCOPE roi": "None",
+        "roi_composition": "NAC(0.32) | CaH(0.28) | PuR(0.15) | CaB(0.09) | PuC(0.08)",
+        "cluster_size": "528",
+        "gene_counts": "3584",
+        "umi_counts": "9974",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "IN_25",
+      "cell_set_accession": "AIT117_262",
+      "parent_cell_set_accession": "AIT117_336",
+      "author_annotation_fields": {
+        "id": "109",
+        "MERSCOPE roi": "None",
+        "roi_composition": "NAC(0.82)",
+        "cluster_size": "218",
+        "gene_counts": "3587",
+        "umi_counts": "9604.5",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "IN_26",
+      "cell_set_accession": "AIT117_263",
+      "parent_cell_set_accession": "AIT117_336",
+      "author_annotation_fields": {
+        "id": "110",
+        "MERSCOPE roi": "None",
+        "roi_composition": "CaT(0.44) | PuC(0.15) | PuPV(0.15) | NAC(0.14)",
+        "cluster_size": "1160",
+        "gene_counts": "2732",
+        "umi_counts": "7738",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "IN_27",
+      "cell_set_accession": "AIT117_264",
+      "parent_cell_set_accession": "AIT117_336",
+      "author_annotation_fields": {
+        "id": "111",
+        "MERSCOPE roi": "None",
+        "roi_composition": "CaH(0.34) | CaB(0.15) | PuC(0.12) | PuR(0.12) | NAC(0.1) | PuPV(0.08) | CaT(0.07)",
+        "cluster_size": "1088",
+        "gene_counts": "3860.5",
+        "umi_counts": "12315",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "IN_28",
+      "cell_set_accession": "AIT117_265",
+      "parent_cell_set_accession": "AIT117_336",
+      "author_annotation_fields": {
+        "id": "112",
+        "MERSCOPE roi": "None",
+        "roi_composition": "NAC(0.53) | PuPV(0.23) | CaT(0.08)",
+        "cluster_size": "564",
+        "gene_counts": "3178",
+        "umi_counts": "7719",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "IN_128",
+      "cell_set_accession": "AIT117_128",
+      "parent_cell_set_accession": "AIT117_337",
+      "author_annotation_fields": {
+        "id": "24",
+        "MERSCOPE roi": "Boundary roi to NAc, SDB, SI",
+        "roi_composition": "NAC(0.95)",
+        "cluster_size": "104",
+        "gene_counts": "4231",
+        "umi_counts": "12981.5",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "IN_129",
+      "cell_set_accession": "AIT117_129",
+      "parent_cell_set_accession": "AIT117_337",
+      "author_annotation_fields": {
+        "id": "25",
+        "MERSCOPE roi": "Boundary roi to NAc, SDB, SI",
+        "roi_composition": "NAC(0.76) | PuPV(0.11) | GPi(0.06)",
+        "cluster_size": "166",
+        "gene_counts": "4554",
+        "umi_counts": "15149.5",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "IN_130",
+      "cell_set_accession": "AIT117_130",
+      "parent_cell_set_accession": "AIT117_337",
+      "author_annotation_fields": {
+        "id": "26",
+        "MERSCOPE roi": "Boundary roi to NAC, SDB, SI",
+        "roi_composition": "GPi(0.41) | NAC(0.29) | GPe(0.23)",
+        "cluster_size": "183",
+        "gene_counts": "5371",
+        "umi_counts": "20859",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "IN_131",
+      "cell_set_accession": "AIT117_131",
+      "parent_cell_set_accession": "AIT117_337",
+      "author_annotation_fields": {
+        "id": "27",
+        "MERSCOPE roi": "Boundary roi to NAC, SDB, SI",
+        "roi_composition": "GPe(0.43) | GPi(0.3) | NAC(0.18) | PuC(0.07)",
+        "cluster_size": "125",
+        "gene_counts": "3410",
+        "umi_counts": "9774",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "IN_132",
+      "cell_set_accession": "AIT117_132",
+      "parent_cell_set_accession": "AIT117_337",
+      "author_annotation_fields": {
+        "id": "28",
+        "MERSCOPE roi": "Boundary roi to NAC, SDB, SI",
+        "roi_composition": "NAC(0.92)",
+        "cluster_size": "391",
+        "gene_counts": "5033",
+        "umi_counts": "18441",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "IN_133",
+      "cell_set_accession": "AIT117_133",
+      "parent_cell_set_accession": "AIT117_337",
+      "author_annotation_fields": {
+        "id": "29",
+        "MERSCOPE roi": "Boundary roi to NAC, SDB, SI",
+        "roi_composition": "GPi(0.47) | PuPV(0.24) | NAC(0.18)",
+        "cluster_size": "190",
+        "gene_counts": "4609",
+        "umi_counts": "16547.5",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "IN_134",
+      "cell_set_accession": "AIT117_134",
+      "parent_cell_set_accession": "AIT117_337",
+      "author_annotation_fields": {
+        "id": "30",
+        "MERSCOPE roi": "Boundary roi to NAC, SDB, SI",
+        "roi_composition": "NAC(0.95)",
+        "cluster_size": "482",
+        "gene_counts": "4643.5",
+        "umi_counts": "16486.5",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "IN_135",
+      "cell_set_accession": "AIT117_135",
+      "parent_cell_set_accession": "AIT117_337",
+      "author_annotation_fields": {
+        "id": "31",
+        "MERSCOPE roi": "Boundary roi to NAC, SDB, SI",
+        "roi_composition": "NAC(0.92)",
+        "cluster_size": "234",
+        "gene_counts": "4693",
+        "umi_counts": "16631",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "IN_136",
+      "cell_set_accession": "AIT117_136",
+      "parent_cell_set_accession": "AIT117_337",
+      "author_annotation_fields": {
+        "id": "32",
+        "MERSCOPE roi": "Boundary roi to NAC, SDB, SI",
+        "roi_composition": "NAC(0.39) | GPe(0.38) | GPi(0.15) | PuC(0.06)",
+        "cluster_size": "915",
+        "gene_counts": "4639.5",
+        "umi_counts": "16714.5",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "IN_76",
+      "cell_set_accession": "AIT117_266",
+      "parent_cell_set_accession": "AIT117_338",
+      "author_annotation_fields": {
+        "id": "153",
+        "MERSCOPE roi": "Low QC mapping in MERSCOPE",
+        "roi_composition": "NAC(0.98)",
+        "cluster_size": "371",
+        "gene_counts": "3544.5",
+        "umi_counts": "9176.5",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "IN_95",
+      "cell_set_accession": "AIT117_95",
+      "parent_cell_set_accession": "AIT117_337",
+      "author_annotation_fields": {
+        "id": "171",
+        "MERSCOPE roi": "Boundary roi to NAC, GP: SDB, SI",
+        "roi_composition": "NAC(0.97)",
+        "cluster_size": "240",
+        "gene_counts": "4353",
+        "umi_counts": "13088.5",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "IN_96",
+      "cell_set_accession": "AIT117_96",
+      "parent_cell_set_accession": "AIT117_337",
+      "author_annotation_fields": {
+        "id": "172",
+        "MERSCOPE roi": "Boundary roi to NAC, GP: SDB, SI",
+        "roi_composition": "NAC(0.91)",
+        "cluster_size": "112",
+        "gene_counts": "4930",
+        "umi_counts": "18062.5",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "IN_97",
+      "cell_set_accession": "AIT117_97",
+      "parent_cell_set_accession": "AIT117_337",
+      "author_annotation_fields": {
+        "id": "173",
+        "MERSCOPE roi": "Boundary roi to NAC, GP: SDB, SI",
+        "roi_composition": "NAC(0.78) | GPe(0.12) | GPi(0.08)",
+        "cluster_size": "532",
+        "gene_counts": "4451.5",
+        "umi_counts": "14519",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "IN_98",
+      "cell_set_accession": "AIT117_98",
+      "parent_cell_set_accession": "AIT117_337",
+      "author_annotation_fields": {
+        "id": "174",
+        "MERSCOPE roi": "Boundary roi to NAC, GP: SDB, SI",
+        "roi_composition": "NAC(0.81) | GPi(0.09) | GPe(0.06)",
+        "cluster_size": "184",
+        "gene_counts": "4463.5",
+        "umi_counts": "15115",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "IN_109",
+      "cell_set_accession": "AIT117_109",
+      "parent_cell_set_accession": "AIT117_339",
+      "author_annotation_fields": {
+        "id": "13",
+        "MERSCOPE roi": "Not NAc",
+        "roi_composition": "NAC(0.86) | GPe(0.12)",
+        "cluster_size": "430",
+        "gene_counts": "4103",
+        "umi_counts": "12107",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "IN_110",
+      "cell_set_accession": "AIT117_110",
+      "parent_cell_set_accession": "AIT117_339",
+      "author_annotation_fields": {
+        "id": "14",
+        "MERSCOPE roi": "Not NAc",
+        "roi_composition": "GPe(0.68) | GPi(0.27)",
+        "cluster_size": "1967",
+        "gene_counts": "4890",
+        "umi_counts": "21083",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "NN_10",
+      "cell_set_accession": "AIT117_267",
+      "parent_cell_set_accession": "AIT117_340",
+      "author_annotation_fields": {
+        "id": "250",
+        "MERSCOPE roi": "None",
+        "roi_composition": "GPi(0.29) | GPe(0.23) | CaT(0.13) | NAC(0.08) | STH(0.07)",
+        "cluster_size": "1849",
+        "gene_counts": "1401",
+        "umi_counts": "2479",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "NN_14",
+      "cell_set_accession": "AIT117_268",
+      "parent_cell_set_accession": "AIT117_340",
+      "author_annotation_fields": {
+        "id": "254",
+        "MERSCOPE roi": "None",
+        "roi_composition": "GPi(0.43) | GPe(0.22) | NAC(0.11) | STH(0.07)",
+        "cluster_size": "61",
+        "gene_counts": "2127.5",
+        "umi_counts": "4306",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "NN_15",
+      "cell_set_accession": "AIT117_269",
+      "parent_cell_set_accession": "AIT117_340",
+      "author_annotation_fields": {
+        "id": "255",
+        "MERSCOPE roi": "None",
+        "roi_composition": "GPi(0.29) | STH(0.26) | GPe(0.25) | SN-VTA(0.15)",
+        "cluster_size": "2019",
+        "gene_counts": "1935",
+        "umi_counts": "3858",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "NN_16",
+      "cell_set_accession": "AIT117_270",
+      "parent_cell_set_accession": "AIT117_340",
+      "author_annotation_fields": {
+        "id": "256",
+        "MERSCOPE roi": "None",
+        "roi_composition": "GPi(0.55) | GPe(0.3) | STH(0.1)",
+        "cluster_size": "3903",
+        "gene_counts": "1857",
+        "umi_counts": "3620",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "NN_3",
+      "cell_set_accession": "AIT117_271",
+      "parent_cell_set_accession": "AIT117_341",
+      "author_annotation_fields": {
+        "id": "270",
+        "MERSCOPE roi": "None",
+        "roi_composition": "PuR(0.29) | PuC(0.26) | NAC(0.18) | CaH(0.11)",
+        "cluster_size": "4064",
+        "gene_counts": "1559",
+        "umi_counts": "2907",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "NN_4",
+      "cell_set_accession": "AIT117_272",
+      "parent_cell_set_accession": "AIT117_341",
+      "author_annotation_fields": {
+        "id": "271",
+        "MERSCOPE roi": "None",
+        "roi_composition": "NAC(0.78) | GPe(0.07) | GPi(0.06)",
+        "cluster_size": "1055",
+        "gene_counts": "1488",
+        "umi_counts": "2563",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "NN_5",
+      "cell_set_accession": "AIT117_273",
+      "parent_cell_set_accession": "AIT117_341",
+      "author_annotation_fields": {
+        "id": "272",
+        "MERSCOPE roi": "None",
+        "roi_composition": "PuC(0.42) | CaT(0.28) | PuPV(0.17)",
+        "cluster_size": "1669",
+        "gene_counts": "1214",
+        "umi_counts": "2451",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "NN_11",
+      "cell_set_accession": "AIT117_274",
+      "parent_cell_set_accession": "AIT117_367",
+      "author_annotation_fields": {
+        "id": "251",
+        "MERSCOPE roi": "None",
+        "roi_composition": "NAC(0.27) | GPi(0.15) | GPe(0.12) | CaT(0.09) | CaB(0.08) | PuR(0.08) | PuPV(0.07) | PuC(0.06) | STH(0.06)",
+        "cluster_size": "217",
+        "gene_counts": "1331",
+        "umi_counts": "2379",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "NN_12",
+      "cell_set_accession": "AIT117_275",
+      "parent_cell_set_accession": "AIT117_367",
+      "author_annotation_fields": {
+        "id": "252",
+        "MERSCOPE roi": "None",
+        "roi_composition": "NAC(0.2) | GPi(0.2) | GPe(0.13) | CaT(0.09) | PuR(0.08) | PuC(0.08) | STH(0.06) | PuPV(0.06)",
+        "cluster_size": "453",
+        "gene_counts": "1141",
+        "umi_counts": "1860",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "NN_13",
+      "cell_set_accession": "AIT117_276",
+      "parent_cell_set_accession": "AIT117_367",
+      "author_annotation_fields": {
+        "id": "253",
+        "MERSCOPE roi": "None",
+        "roi_composition": "GPe(0.28) | NAC(0.26) | PuR(0.12) | PuC(0.08) | GPi(0.07) | PuPV(0.06)",
+        "cluster_size": "63",
+        "gene_counts": "1194",
+        "umi_counts": "2051.5",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "NN_27",
+      "cell_set_accession": "AIT117_277",
+      "parent_cell_set_accession": "AIT117_368",
+      "author_annotation_fields": {
+        "id": "268",
+        "MERSCOPE roi": "None",
+        "roi_composition": "NAC(0.35) | CaH(0.32) | CaB(0.18) | CaT(0.1)",
+        "cluster_size": "132",
+        "gene_counts": "1626",
+        "umi_counts": "2824",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "NN_28",
+      "cell_set_accession": "AIT117_278",
+      "parent_cell_set_accession": "AIT117_368",
+      "author_annotation_fields": {
+        "id": "269",
+        "MERSCOPE roi": "None",
+        "roi_composition": "CaT(0.91)",
+        "cluster_size": "61",
+        "gene_counts": "1318",
+        "umi_counts": "2247",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "NN_6",
+      "cell_set_accession": "AIT117_279",
+      "parent_cell_set_accession": "AIT117_369",
+      "author_annotation_fields": {
+        "id": "273",
+        "MERSCOPE roi": "None",
+        "roi_composition": "STH(0.2) | GPi(0.16) | GPe(0.15) | NAC(0.1) | CaH(0.07) | PuR(0.07) | SN-VTA(0.06) | PuPV(0.06) | CaB(0.06) | PuC(0.06)",
+        "cluster_size": "14942",
+        "gene_counts": "1426",
+        "umi_counts": "2598",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "NN_26",
+      "cell_set_accession": "AIT117_280",
+      "parent_cell_set_accession": "AIT117_342",
+      "author_annotation_fields": {
+        "id": "267",
+        "MERSCOPE roi": "None",
+        "roi_composition": "GPe(0.19) | NAC(0.15) | PuPV(0.11) | GPi(0.11) | STH(0.1) | SN-VTA(0.09) | CaT(0.07) | PuR(0.06)",
+        "cluster_size": "293",
+        "gene_counts": "1171.5",
+        "umi_counts": "1893",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "NN_23",
+      "cell_set_accession": "AIT117_281",
+      "parent_cell_set_accession": "AIT117_343",
+      "author_annotation_fields": {
+        "id": "264",
+        "MERSCOPE roi": "None",
+        "roi_composition": "GPe(0.19) | GPi(0.17) | STH(0.17) | NAC(0.09) | SN-VTA(0.08) | CaT(0.07) | CaB(0.06) | PuPV(0.06)",
+        "cluster_size": "113",
+        "gene_counts": "929",
+        "umi_counts": "1380",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "NN_24",
+      "cell_set_accession": "AIT117_282",
+      "parent_cell_set_accession": "AIT117_343",
+      "author_annotation_fields": {
+        "id": "265",
+        "MERSCOPE roi": "None",
+        "roi_composition": "GPi(0.19) | GPe(0.19) | SN-VTA(0.15) | PuC(0.11) | STH(0.1) | CaT(0.09) | PuPV(0.08)",
+        "cluster_size": "42",
+        "gene_counts": "812.5",
+        "umi_counts": "1265",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "NN_25",
+      "cell_set_accession": "AIT117_283",
+      "parent_cell_set_accession": "AIT117_343",
+      "author_annotation_fields": {
+        "id": "266",
+        "MERSCOPE roi": "None",
+        "roi_composition": "GPi(0.28) | GPe(0.27) | STH(0.19) | CaB(0.07) | NAC(0.07)",
+        "cluster_size": "60",
+        "gene_counts": "1766.5",
+        "umi_counts": "2940",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "NN_1",
+      "cell_set_accession": "AIT117_284",
+      "parent_cell_set_accession": "AIT117_344",
+      "author_annotation_fields": {
+        "id": "249",
+        "MERSCOPE roi": "None",
+        "roi_composition": "CaB(0.2) | CaH(0.2) | STH(0.16) | PuR(0.15) | NAC(0.12) | SN-VTA(0.07)",
+        "cluster_size": "7982",
+        "gene_counts": "1382",
+        "umi_counts": "2842",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "NN_17",
+      "cell_set_accession": "AIT117_285",
+      "parent_cell_set_accession": "AIT117_344",
+      "author_annotation_fields": {
+        "id": "257",
+        "MERSCOPE roi": "None",
+        "roi_composition": "SN-VTA(0.41) | STH(0.3) | CaB(0.09)",
+        "cluster_size": "6260",
+        "gene_counts": "1769",
+        "umi_counts": "3933",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "NN_2",
+      "cell_set_accession": "AIT117_286",
+      "parent_cell_set_accession": "AIT117_344",
+      "author_annotation_fields": {
+        "id": "260",
+        "MERSCOPE roi": "None",
+        "roi_composition": "CaB(0.29) | STH(0.23) | CaH(0.2) | PuR(0.09) | NAC(0.09) | SN-VTA(0.07)",
+        "cluster_size": "838",
+        "gene_counts": "1326",
+        "umi_counts": "2802",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "NN_20",
+      "cell_set_accession": "AIT117_287",
+      "parent_cell_set_accession": "AIT117_344",
+      "author_annotation_fields": {
+        "id": "261",
+        "MERSCOPE roi": "None",
+        "roi_composition": "CaH(0.23) | CaB(0.14) | PuR(0.12) | GPe(0.11) | NAC(0.08) | GPi(0.08) | STH(0.08) | PuPV(0.07)",
+        "cluster_size": "1770",
+        "gene_counts": "1589.5",
+        "umi_counts": "3493",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "NN_18",
+      "cell_set_accession": "AIT117_288",
+      "parent_cell_set_accession": "AIT117_345",
+      "author_annotation_fields": {
+        "id": "258",
+        "MERSCOPE roi": "None",
+        "roi_composition": "SN-VTA(0.8)",
+        "cluster_size": "771",
+        "gene_counts": "2205",
+        "umi_counts": "5081",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "NN_21",
+      "cell_set_accession": "AIT117_289",
+      "parent_cell_set_accession": "AIT117_345",
+      "author_annotation_fields": {
+        "id": "262",
+        "MERSCOPE roi": "None",
+        "roi_composition": "GPi(0.2) | NAC(0.19) | CaB(0.11) | GPe(0.11) | PuPV(0.09) | PuR(0.08) | STH(0.07)",
+        "cluster_size": "5735",
+        "gene_counts": "1819",
+        "umi_counts": "3970",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "NN_22",
+      "cell_set_accession": "AIT117_290",
+      "parent_cell_set_accession": "AIT117_345",
+      "author_annotation_fields": {
+        "id": "263",
+        "MERSCOPE roi": "None",
+        "roi_composition": "GPe(0.44) | GPi(0.31) | CaB(0.08) | NAC(0.06)",
+        "cluster_size": "748",
+        "gene_counts": "1707",
+        "umi_counts": "3414",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "NN_7",
+      "cell_set_accession": "AIT117_291",
+      "parent_cell_set_accession": "AIT117_345",
+      "author_annotation_fields": {
+        "id": "274",
+        "MERSCOPE roi": "None",
+        "roi_composition": "STH(0.29) | GPi(0.22) | GPe(0.22) | CaB(0.1)",
+        "cluster_size": "1935",
+        "gene_counts": "1811",
+        "umi_counts": "3843",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "NN_8",
+      "cell_set_accession": "AIT117_292",
+      "parent_cell_set_accession": "AIT117_345",
+      "author_annotation_fields": {
+        "id": "275",
+        "MERSCOPE roi": "None",
+        "roi_composition": "GPi(0.3) | SN-VTA(0.21) | STH(0.2) | GPe(0.13) | CaB(0.07)",
+        "cluster_size": "2667",
+        "gene_counts": "2584",
+        "umi_counts": "6758",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "NN_19",
+      "cell_set_accession": "AIT117_293",
+      "parent_cell_set_accession": "AIT117_373",
+      "author_annotation_fields": {
+        "id": "259",
+        "MERSCOPE roi": "None",
+        "roi_composition": "NAC(0.45) | STH(0.26) | SN-VTA(0.11) | CaH(0.06)",
+        "cluster_size": "107",
+        "gene_counts": "1809",
+        "umi_counts": "3355",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "NN_9",
+      "cell_set_accession": "AIT117_294",
+      "parent_cell_set_accession": "AIT117_373",
+      "author_annotation_fields": {
+        "id": "276",
+        "MERSCOPE roi": "None",
+        "roi_composition": "STH(0.37) | NAC(0.24) | CaH(0.15) | PuR(0.09) | CaB(0.08)",
+        "cluster_size": "3337",
+        "gene_counts": "1567.5",
+        "umi_counts": "3045.5",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "IN_178",
+      "cell_set_accession": "AIT117_178",
+      "parent_cell_set_accession": "AIT117_346",
+      "author_annotation_fields": {
+        "id": "54",
+        "MERSCOPE roi": "STH",
+        "roi_composition": "STH(0.95)",
+        "cluster_size": "3601",
+        "gene_counts": "5787",
+        "umi_counts": "26433",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "IN_179",
+      "cell_set_accession": "AIT117_179",
+      "parent_cell_set_accession": "AIT117_346",
+      "author_annotation_fields": {
+        "id": "55",
+        "MERSCOPE roi": "STH",
+        "roi_composition": "STH(0.84) | SN-VTA(0.15)",
+        "cluster_size": "132",
+        "gene_counts": "2550.5",
+        "umi_counts": "5861",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "IN_180",
+      "cell_set_accession": "AIT117_180",
+      "parent_cell_set_accession": "AIT117_346",
+      "author_annotation_fields": {
+        "id": "57",
+        "MERSCOPE roi": "STH, ventral. Closer to SN",
+        "roi_composition": "SN-VTA(0.94) | STH(0.06)",
+        "cluster_size": "288",
+        "gene_counts": "7119",
+        "umi_counts": "42305",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "IN_199",
+      "cell_set_accession": "AIT117_199",
+      "parent_cell_set_accession": "AIT117_347",
+      "author_annotation_fields": {
+        "id": "72",
+        "MERSCOPE roi": "Thalamus",
+        "roi_composition": "CaB(0.82) | STH(0.16)",
+        "cluster_size": "110",
+        "gene_counts": "6550.5",
+        "umi_counts": "35141.5",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "IN_200",
+      "cell_set_accession": "AIT117_200",
+      "parent_cell_set_accession": "AIT117_347",
+      "author_annotation_fields": {
+        "id": "75",
+        "MERSCOPE roi": "Thalamus",
+        "roi_composition": "STH(0.95)",
+        "cluster_size": "469",
+        "gene_counts": "5546",
+        "umi_counts": "24373",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "IN_231",
+      "cell_set_accession": "AIT117_295",
+      "parent_cell_set_accession": "AIT117_347",
+      "author_annotation_fields": {
+        "id": "105",
+        "MERSCOPE roi": "Thalamus",
+        "roi_composition": "GPe",
+        "cluster_size": "619",
+        "gene_counts": "4691",
+        "umi_counts": "17961",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "IN_232",
+      "cell_set_accession": "AIT117_296",
+      "parent_cell_set_accession": "AIT117_347",
+      "author_annotation_fields": {
+        "id": "106",
+        "MERSCOPE roi": "Thalamus",
+        "roi_composition": "GPe",
+        "cluster_size": "646",
+        "gene_counts": "4692.5",
+        "umi_counts": "18615.5",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "IN_188",
+      "cell_set_accession": "AIT117_188",
+      "parent_cell_set_accession": "AIT117_347",
+      "author_annotation_fields": {
+        "id": "60",
+        "MERSCOPE roi": "None",
+        "roi_composition": "SN-VTA",
+        "cluster_size": "1007",
+        "gene_counts": "6195",
+        "umi_counts": "31425",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "IN_201",
+      "cell_set_accession": "AIT117_201",
+      "parent_cell_set_accession": "AIT117_376",
+      "author_annotation_fields": {
+        "id": "76",
+        "MERSCOPE roi": "SN",
+        "roi_composition": "SN-VTA(0.59) | STH(0.39)",
+        "cluster_size": "228",
+        "gene_counts": "6013.5",
+        "umi_counts": "29606.5",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "3"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "IN_203",
+      "cell_set_accession": "AIT117_203",
+      "parent_cell_set_accession": "AIT117_376",
+      "author_annotation_fields": {
+        "id": "77",
+        "MERSCOPE roi": "SN",
+        "roi_composition": "SN-VTA(0.84) | STH(0.11)",
+        "cluster_size": "44",
+        "gene_counts": "3762",
+        "umi_counts": "15430.5",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "1"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "IN_204",
+      "cell_set_accession": "AIT117_204",
+      "parent_cell_set_accession": "AIT117_376",
+      "author_annotation_fields": {
+        "id": "78",
+        "MERSCOPE roi": "SN",
+        "roi_composition": "SN-VTA(0.9) | STH(0.1)",
+        "cluster_size": "154",
+        "gene_counts": "6919",
+        "umi_counts": "43139.5",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "8"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "IN_205",
+      "cell_set_accession": "AIT117_205",
+      "parent_cell_set_accession": "AIT117_376",
+      "author_annotation_fields": {
+        "id": "79",
+        "MERSCOPE roi": "SN",
+        "roi_composition": "STH(0.52) | SN-VTA(0.48)",
+        "cluster_size": "903",
+        "gene_counts": "6727",
+        "umi_counts": "42857",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "5"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "IN_206",
+      "cell_set_accession": "AIT117_206",
+      "parent_cell_set_accession": "AIT117_376",
+      "author_annotation_fields": {
+        "id": "80",
+        "MERSCOPE roi": "SN",
+        "roi_composition": "SN-VTA(0.92)",
+        "cluster_size": "194",
+        "gene_counts": "7331.5",
+        "umi_counts": "50831",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "9"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "IN_207",
+      "cell_set_accession": "AIT117_207",
+      "parent_cell_set_accession": "AIT117_376",
+      "author_annotation_fields": {
+        "id": "81",
+        "MERSCOPE roi": "SN",
+        "roi_composition": "SN-VTA",
+        "cluster_size": "98",
+        "gene_counts": "6590",
+        "umi_counts": "39698",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "4"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "IN_208",
+      "cell_set_accession": "AIT117_208",
+      "parent_cell_set_accession": "AIT117_376",
+      "author_annotation_fields": {
+        "id": "82",
+        "MERSCOPE roi": "SN, unique spatial pattern. Review EM",
+        "roi_composition": "SN-VTA(0.76) | STH(0.24)",
+        "cluster_size": "1628",
+        "gene_counts": "6835",
+        "umi_counts": "45867",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "6"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "IN_209",
+      "cell_set_accession": "AIT117_209",
+      "parent_cell_set_accession": "AIT117_376",
+      "author_annotation_fields": {
+        "id": "83",
+        "MERSCOPE roi": "SN, unique spatial pattern. Review EM",
+        "roi_composition": "SN-VTA(0.9) | STH(0.07)",
+        "cluster_size": "231",
+        "gene_counts": "4160.5",
+        "umi_counts": "17501.5",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "2"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "IN_210",
+      "cell_set_accession": "AIT117_210",
+      "parent_cell_set_accession": "AIT117_376",
+      "author_annotation_fields": {
+        "id": "85",
+        "MERSCOPE roi": "SN, unique spatial pattern. Review EM",
+        "roi_composition": "GPe(0.96)",
+        "cluster_size": "271",
+        "gene_counts": "6416",
+        "umi_counts": "40173",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "7"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "IN_211",
+      "cell_set_accession": "AIT117_211",
+      "parent_cell_set_accession": "AIT117_376",
+      "author_annotation_fields": {
+        "id": "86",
+        "MERSCOPE roi": "VTA",
+        "roi_composition": "SN-VTA(0.97)",
+        "cluster_size": "63",
+        "gene_counts": "5877",
+        "umi_counts": "27062",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "10"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "IN_212",
+      "cell_set_accession": "AIT117_212",
+      "parent_cell_set_accession": "AIT117_376",
+      "author_annotation_fields": {
+        "id": "87",
+        "MERSCOPE roi": "VTA",
+        "roi_composition": "SN-VTA(0.8) | STH(0.19)",
+        "cluster_size": "59",
+        "gene_counts": "7110",
+        "umi_counts": "50158",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "11"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "IN_103",
+      "cell_set_accession": "AIT117_103",
+      "parent_cell_set_accession": "AIT117_348",
+      "author_annotation_fields": {
+        "id": "7",
+        "MERSCOPE roi": "None",
+        "roi_composition": "NAC(0.94)",
+        "cluster_size": "183",
+        "gene_counts": "3848",
+        "umi_counts": "9681.5",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "IN_104",
+      "cell_set_accession": "AIT117_104",
+      "parent_cell_set_accession": "AIT117_348",
+      "author_annotation_fields": {
+        "id": "8",
+        "MERSCOPE roi": "None",
+        "roi_composition": "NAC(0.89) | GPi(0.09)",
+        "cluster_size": "403",
+        "gene_counts": "4095",
+        "umi_counts": "11472.5",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "IN_105",
+      "cell_set_accession": "AIT117_105",
+      "parent_cell_set_accession": "AIT117_348",
+      "author_annotation_fields": {
+        "id": "9",
+        "MERSCOPE roi": "None",
+        "roi_composition": "NAC(0.77) | GPe(0.08)",
+        "cluster_size": "81",
+        "gene_counts": "4209",
+        "umi_counts": "12283",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "IN_106",
+      "cell_set_accession": "AIT117_106",
+      "parent_cell_set_accession": "AIT117_348",
+      "author_annotation_fields": {
+        "id": "10",
+        "MERSCOPE roi": "None",
+        "roi_composition": "NAC(0.89) | GPi(0.09)",
+        "cluster_size": "231",
+        "gene_counts": "4249",
+        "umi_counts": "12342",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "IN_107",
+      "cell_set_accession": "AIT117_107",
+      "parent_cell_set_accession": "AIT117_348",
+      "author_annotation_fields": {
+        "id": "11",
+        "MERSCOPE roi": "None",
+        "roi_composition": "NAC(0.85) | GPi(0.13)",
+        "cluster_size": "246",
+        "gene_counts": "4119",
+        "umi_counts": "11671",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "IN_108",
+      "cell_set_accession": "AIT117_108",
+      "parent_cell_set_accession": "AIT117_348",
+      "author_annotation_fields": {
+        "id": "12",
+        "MERSCOPE roi": "None",
+        "roi_composition": "NAC(0.73) | GPi(0.18)",
+        "cluster_size": "872",
+        "gene_counts": "3928",
+        "umi_counts": "10868",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "IN_214",
+      "cell_set_accession": "AIT117_297",
+      "parent_cell_set_accession": "AIT117_349",
+      "author_annotation_fields": {
+        "id": "89",
+        "MERSCOPE roi": "None",
+        "roi_composition": "STH(0.49) | SN-VTA(0.45)",
+        "cluster_size": "487",
+        "gene_counts": "5527.5",
+        "umi_counts": "21895.5",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "IN_215",
+      "cell_set_accession": "AIT117_298",
+      "parent_cell_set_accession": "AIT117_349",
+      "author_annotation_fields": {
+        "id": "90",
+        "MERSCOPE roi": "None",
+        "roi_composition": "SN-VTA(0.42) | STH(0.4) | GPe(0.17)",
+        "cluster_size": "301",
+        "gene_counts": "5168.5",
+        "umi_counts": "19062.5",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "IN_216",
+      "cell_set_accession": "AIT117_299",
+      "parent_cell_set_accession": "AIT117_349",
+      "author_annotation_fields": {
+        "id": "91",
+        "MERSCOPE roi": "None",
+        "roi_composition": "STH(0.56) | SN-VTA(0.42)",
+        "cluster_size": "105",
+        "gene_counts": "5621",
+        "umi_counts": "22548",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "IN_217",
+      "cell_set_accession": "AIT117_300",
+      "parent_cell_set_accession": "AIT117_349",
+      "author_annotation_fields": {
+        "id": "92",
+        "MERSCOPE roi": "None",
+        "roi_composition": "STH(0.72) | SN-VTA(0.16) | GPe(0.12)",
+        "cluster_size": "245",
+        "gene_counts": "5629",
+        "umi_counts": "23868.5",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "IN_218",
+      "cell_set_accession": "AIT117_301",
+      "parent_cell_set_accession": "AIT117_349",
+      "author_annotation_fields": {
+        "id": "93",
+        "MERSCOPE roi": "None",
+        "roi_composition": "STH(0.7) | SN-VTA(0.24) | GPe(0.06)",
+        "cluster_size": "334",
+        "gene_counts": "5579.5",
+        "umi_counts": "21491.5",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "IN_219",
+      "cell_set_accession": "AIT117_302",
+      "parent_cell_set_accession": "AIT117_349",
+      "author_annotation_fields": {
+        "id": "94",
+        "MERSCOPE roi": "None",
+        "roi_composition": "SN-VTA(0.78) | STH(0.17)",
+        "cluster_size": "446",
+        "gene_counts": "5930.5",
+        "umi_counts": "27041",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "IN_220",
+      "cell_set_accession": "AIT117_303",
+      "parent_cell_set_accession": "AIT117_349",
+      "author_annotation_fields": {
+        "id": "96",
+        "MERSCOPE roi": "None",
+        "roi_composition": "STH(0.55) | SN-VTA(0.44)",
+        "cluster_size": "153",
+        "gene_counts": "5986",
+        "umi_counts": "27727",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "IN_221",
+      "cell_set_accession": "AIT117_304",
+      "parent_cell_set_accession": "AIT117_349",
+      "author_annotation_fields": {
+        "id": "97",
+        "MERSCOPE roi": "None",
+        "roi_composition": "SN-VTA(0.51) | STH(0.29) | GPe(0.21)",
+        "cluster_size": "267",
+        "gene_counts": "5873",
+        "umi_counts": "25161",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "IN_222",
+      "cell_set_accession": "AIT117_305",
+      "parent_cell_set_accession": "AIT117_349",
+      "author_annotation_fields": {
+        "id": "98",
+        "MERSCOPE roi": "None",
+        "roi_composition": "GPe(0.97)",
+        "cluster_size": "101",
+        "gene_counts": "4639",
+        "umi_counts": "17231",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "IN_223",
+      "cell_set_accession": "AIT117_306",
+      "parent_cell_set_accession": "AIT117_349",
+      "author_annotation_fields": {
+        "id": "99",
+        "MERSCOPE roi": "None",
+        "roi_composition": "SN-VTA",
+        "cluster_size": "101",
+        "gene_counts": "6534",
+        "umi_counts": "36847",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "IN_35",
+      "cell_set_accession": "AIT117_307",
+      "parent_cell_set_accession": "AIT117_349",
+      "author_annotation_fields": {
+        "id": "116",
+        "MERSCOPE roi": "None",
+        "roi_composition": "NAC(0.56) | STH(0.32) | SN-VTA(0.1)",
+        "cluster_size": "1076",
+        "gene_counts": "4269",
+        "umi_counts": "12294",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "IN_39",
+      "cell_set_accession": "AIT117_308",
+      "parent_cell_set_accession": "AIT117_349",
+      "author_annotation_fields": {
+        "id": "118",
+        "MERSCOPE roi": "None",
+        "roi_composition": "SN-VTA(0.75) | GPe(0.21)",
+        "cluster_size": "67",
+        "gene_counts": "5393",
+        "umi_counts": "22130",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "IN_33",
+      "cell_set_accession": "AIT117_33",
+      "parent_cell_set_accession": "AIT117_349",
+      "author_annotation_fields": {
+        "id": "114",
+        "MERSCOPE roi": "None",
+        "roi_composition": "STH(0.84) | SN-VTA(0.14)",
+        "cluster_size": "422",
+        "gene_counts": "4802.5",
+        "umi_counts": "15577.5",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "IN_34",
+      "cell_set_accession": "AIT117_309",
+      "parent_cell_set_accession": "AIT117_349",
+      "author_annotation_fields": {
+        "id": "115",
+        "MERSCOPE roi": "None",
+        "roi_composition": "STH(0.5) | SN-VTA(0.42)",
+        "cluster_size": "306",
+        "gene_counts": "4219.5",
+        "umi_counts": "14672.5",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "IN_36",
+      "cell_set_accession": "AIT117_310",
+      "parent_cell_set_accession": "AIT117_349",
+      "author_annotation_fields": {
+        "id": "117",
+        "MERSCOPE roi": "None",
+        "roi_composition": "SN-VTA(0.58) | STH(0.24) | NAC(0.09)",
+        "cluster_size": "239",
+        "gene_counts": "5363",
+        "umi_counts": "19469",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "IN_181",
+      "cell_set_accession": "AIT117_181",
+      "parent_cell_set_accession": "AIT117_350",
+      "author_annotation_fields": {
+        "id": "58",
+        "MERSCOPE roi": "GPi",
+        "roi_composition": "GPi(0.57) | GPe(0.42)",
+        "cluster_size": "188",
+        "gene_counts": "4389.5",
+        "umi_counts": "15971",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "cluster",
+      "cell_label": "IN_182",
+      "cell_set_accession": "AIT117_182",
+      "parent_cell_set_accession": "AIT117_350",
+      "author_annotation_fields": {
+        "id": "59",
+        "MERSCOPE roi": "GPi",
+        "roi_composition": "GPi(0.93) | GPe(0.07)",
+        "cluster_size": "202",
+        "gene_counts": "7465.5",
+        "umi_counts": "44735.5",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "Group",
+      "cell_label": "BN LAMP5 LHX6 GABA",
+      "cell_set_accession": "AIT117_311",
+      "parent_cell_set_accession": "AIT117_351",
+      "author_annotation_fields": {
+        "id": "None",
+        "MERSCOPE roi": "None",
+        "roi_composition": "None",
+        "cluster_size": "None",
+        "gene_counts": "None",
+        "umi_counts": "None",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "Group",
+      "cell_label": "BN LAMP5 CXCL14 GABA",
+      "cell_set_accession": "AIT117_312",
+      "parent_cell_set_accession": "AIT117_351",
+      "author_annotation_fields": {
+        "id": "None",
+        "MERSCOPE roi": "None",
+        "roi_composition": "None",
+        "cluster_size": "None",
+        "gene_counts": "None",
+        "umi_counts": "None",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "Group",
+      "cell_label": "STR VIP GABA",
+      "cell_set_accession": "AIT117_313",
+      "parent_cell_set_accession": "AIT117_352",
+      "author_annotation_fields": {
+        "id": "None",
+        "MERSCOPE roi": "None",
+        "roi_composition": "None",
+        "cluster_size": "None",
+        "gene_counts": "None",
+        "umi_counts": "None",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "Group",
+      "cell_label": "SN PVALB GATA3 GABA",
+      "cell_set_accession": "AIT117_314",
+      "parent_cell_set_accession": "AIT117_353",
+      "author_annotation_fields": {
+        "id": "None",
+        "MERSCOPE roi": "None",
+        "roi_composition": "None",
+        "cluster_size": "None",
+        "gene_counts": "None",
+        "umi_counts": "None",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "Group",
+      "cell_label": "NDB SI LHX8 GABA",
+      "cell_set_accession": "AIT117_315",
+      "parent_cell_set_accession": "AIT117_354",
+      "author_annotation_fields": {
+        "id": "None",
+        "MERSCOPE roi": "None",
+        "roi_composition": "None",
+        "cluster_size": "None",
+        "gene_counts": "None",
+        "umi_counts": "None",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "Group",
+      "cell_label": "STR LHX8 ST18 GABA",
+      "cell_set_accession": "AIT117_316",
+      "parent_cell_set_accession": "AIT117_354",
+      "author_annotation_fields": {
+        "id": "None",
+        "MERSCOPE roi": "None",
+        "roi_composition": "None",
+        "cluster_size": "None",
+        "gene_counts": "None",
+        "umi_counts": "None",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "Group",
+      "cell_label": "STR TAC3 PLPP4 GABA",
+      "cell_set_accession": "AIT117_317",
+      "parent_cell_set_accession": "AIT117_354",
+      "author_annotation_fields": {
+        "id": "None",
+        "MERSCOPE roi": "None",
+        "roi_composition": "None",
+        "cluster_size": "None",
+        "gene_counts": "None",
+        "umi_counts": "None",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "Group",
+      "cell_label": "STRd D1 Matrix",
+      "cell_set_accession": "AIT117_318",
+      "parent_cell_set_accession": "AIT117_355",
+      "author_annotation_fields": {
+        "id": "None",
+        "MERSCOPE roi": "None",
+        "roi_composition": "None",
+        "cluster_size": "None",
+        "gene_counts": "None",
+        "umi_counts": "None",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "Group",
+      "cell_label": "STRd D1 Striosome",
+      "cell_set_accession": "AIT117_319",
+      "parent_cell_set_accession": "AIT117_355",
+      "author_annotation_fields": {
+        "id": "None",
+        "MERSCOPE roi": "None",
+        "roi_composition": "None",
+        "cluster_size": "None",
+        "gene_counts": "None",
+        "umi_counts": "None",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "Group",
+      "cell_label": "STRv D1 Shell",
+      "cell_set_accession": "AIT117_320",
+      "parent_cell_set_accession": "AIT117_355",
+      "author_annotation_fields": {
+        "id": "None",
+        "MERSCOPE roi": "None",
+        "roi_composition": "None",
+        "cluster_size": "None",
+        "gene_counts": "None",
+        "umi_counts": "None",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "Group",
+      "cell_label": "OT D1-ICj",
+      "cell_set_accession": "AIT117_321",
+      "parent_cell_set_accession": "AIT117_356",
+      "author_annotation_fields": {
+        "id": "None",
+        "MERSCOPE roi": "None",
+        "roi_composition": "None",
+        "cluster_size": "None",
+        "gene_counts": "None",
+        "umi_counts": "None",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "Group",
+      "cell_label": "STRd D2 Matrix",
+      "cell_set_accession": "AIT117_322",
+      "parent_cell_set_accession": "AIT117_357",
+      "author_annotation_fields": {
+        "id": "None",
+        "MERSCOPE roi": "None",
+        "roi_composition": "None",
+        "cluster_size": "None",
+        "gene_counts": "None",
+        "umi_counts": "None",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "Group",
+      "cell_label": "STRv D2 Shell",
+      "cell_set_accession": "AIT117_323",
+      "parent_cell_set_accession": "AIT117_357",
+      "author_annotation_fields": {
+        "id": "None",
+        "MERSCOPE roi": "None",
+        "roi_composition": "None",
+        "cluster_size": "None",
+        "gene_counts": "None",
+        "umi_counts": "None",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "Group",
+      "cell_label": "STRd D2 Striosome",
+      "cell_set_accession": "AIT117_324",
+      "parent_cell_set_accession": "AIT117_357",
+      "author_annotation_fields": {
+        "id": "None",
+        "MERSCOPE roi": "None",
+        "roi_composition": "None",
+        "cluster_size": "None",
+        "gene_counts": "None",
+        "umi_counts": "None",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "Group",
+      "cell_label": "GPi Core",
+      "cell_set_accession": "AIT117_325",
+      "parent_cell_set_accession": "AIT117_358",
+      "author_annotation_fields": {
+        "id": "None",
+        "MERSCOPE roi": "None",
+        "roi_composition": "None",
+        "cluster_size": "None",
+        "gene_counts": "None",
+        "umi_counts": "None",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "Group",
+      "cell_label": "STRv D1 NUDAP",
+      "cell_set_accession": "AIT117_326",
+      "parent_cell_set_accession": "AIT117_359",
+      "author_annotation_fields": {
+        "id": "None",
+        "MERSCOPE roi": "None",
+        "roi_composition": "None",
+        "cluster_size": "None",
+        "gene_counts": "None",
+        "umi_counts": "None",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "Group",
+      "cell_label": "STRd D1D2 Hybrid",
+      "cell_set_accession": "AIT117_327",
+      "parent_cell_set_accession": "AIT117_359",
+      "author_annotation_fields": {
+        "id": "None",
+        "MERSCOPE roi": "None",
+        "roi_composition": "None",
+        "cluster_size": "None",
+        "gene_counts": "None",
+        "umi_counts": "None",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "Group",
+      "cell_label": "STRd D2 StrioMat Hybrid",
+      "cell_set_accession": "AIT117_328",
+      "parent_cell_set_accession": "AIT117_357",
+      "author_annotation_fields": {
+        "id": "None",
+        "MERSCOPE roi": "None",
+        "roi_composition": "None",
+        "cluster_size": "None",
+        "gene_counts": "None",
+        "umi_counts": "None",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "Group",
+      "cell_label": "TH MEIS2 OTX2 GABA",
+      "cell_set_accession": "AIT117_329",
+      "parent_cell_set_accession": "AIT117_360",
+      "author_annotation_fields": {
+        "id": "None",
+        "MERSCOPE roi": "None",
+        "roi_composition": "None",
+        "cluster_size": "None",
+        "gene_counts": "None",
+        "umi_counts": "None",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "Group",
+      "cell_label": "GP MEIS2 SOX6 GABA",
+      "cell_set_accession": "AIT117_330",
+      "parent_cell_set_accession": "AIT117_361",
+      "author_annotation_fields": {
+        "id": "None",
+        "MERSCOPE roi": "None",
+        "roi_composition": "None",
+        "cluster_size": "None",
+        "gene_counts": "None",
+        "umi_counts": "None",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "Group",
+      "cell_label": "SN STH GATA3 TCF7L2 GABA",
+      "cell_set_accession": "AIT117_331",
+      "parent_cell_set_accession": "AIT117_362",
+      "author_annotation_fields": {
+        "id": "None",
+        "MERSCOPE roi": "None",
+        "roi_composition": "None",
+        "cluster_size": "None",
+        "gene_counts": "None",
+        "umi_counts": "None",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "Group",
+      "cell_label": "SN STH PAX8 GABA",
+      "cell_set_accession": "AIT117_332",
+      "parent_cell_set_accession": "AIT117_362",
+      "author_annotation_fields": {
+        "id": "None",
+        "MERSCOPE roi": "None",
+        "roi_composition": "None",
+        "cluster_size": "None",
+        "gene_counts": "None",
+        "umi_counts": "None",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "Group",
+      "cell_label": "STR SST Chodl GABA",
+      "cell_set_accession": "AIT117_333",
+      "parent_cell_set_accession": "AIT117_363",
+      "author_annotation_fields": {
+        "id": "None",
+        "MERSCOPE roi": "None",
+        "roi_composition": "None",
+        "cluster_size": "None",
+        "gene_counts": "None",
+        "umi_counts": "None",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "Group",
+      "cell_label": "STR SST ADARB2 GABA",
+      "cell_set_accession": "AIT117_334",
+      "parent_cell_set_accession": "AIT117_363",
+      "author_annotation_fields": {
+        "id": "None",
+        "MERSCOPE roi": "None",
+        "roi_composition": "None",
+        "cluster_size": "None",
+        "gene_counts": "None",
+        "umi_counts": "None",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "Group",
+      "cell_label": "STR SST RSPO2 GABA",
+      "cell_set_accession": "AIT117_335",
+      "parent_cell_set_accession": "AIT117_363",
+      "author_annotation_fields": {
+        "id": "None",
+        "MERSCOPE roi": "None",
+        "roi_composition": "None",
+        "cluster_size": "None",
+        "gene_counts": "None",
+        "umi_counts": "None",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "Group",
+      "cell_label": "STR FS PTHLH ST18 GABA",
+      "cell_set_accession": "AIT117_336",
+      "parent_cell_set_accession": "AIT117_365",
+      "author_annotation_fields": {
+        "id": "None",
+        "MERSCOPE roi": "None",
+        "roi_composition": "None",
+        "cluster_size": "None",
+        "gene_counts": "None",
+        "umi_counts": "None",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "Group",
+      "cell_label": "NDB SI LHX6 LHX8 GBX1",
+      "cell_set_accession": "AIT117_337",
+      "parent_cell_set_accession": "AIT117_354",
+      "author_annotation_fields": {
+        "id": "None",
+        "MERSCOPE roi": "None",
+        "roi_composition": "None",
+        "cluster_size": "None",
+        "gene_counts": "None",
+        "umi_counts": "None",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "Group",
+      "cell_label": "GP STRv LHX8 GABA",
+      "cell_set_accession": "AIT117_338",
+      "parent_cell_set_accession": "AIT117_354",
+      "author_annotation_fields": {
+        "id": "None",
+        "MERSCOPE roi": "None",
+        "roi_composition": "None",
+        "cluster_size": "None",
+        "gene_counts": "None",
+        "umi_counts": "None",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "Group",
+      "cell_label": "GP SOX6 KCNA1 GABA",
+      "cell_set_accession": "AIT117_339",
+      "parent_cell_set_accession": "AIT117_354",
+      "author_annotation_fields": {
+        "id": "None",
+        "MERSCOPE roi": "None",
+        "roi_composition": "None",
+        "cluster_size": "None",
+        "gene_counts": "None",
+        "umi_counts": "None",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "Group",
+      "cell_label": "BN Astrocyte",
+      "cell_set_accession": "AIT117_340",
+      "parent_cell_set_accession": "AIT117_366",
+      "author_annotation_fields": {
+        "id": "None",
+        "MERSCOPE roi": "None",
+        "roi_composition": "None",
+        "cluster_size": "None",
+        "gene_counts": "None",
+        "umi_counts": "None",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "Group",
+      "cell_label": "STR Astrocyte",
+      "cell_set_accession": "AIT117_341",
+      "parent_cell_set_accession": "AIT117_366",
+      "author_annotation_fields": {
+        "id": "None",
+        "MERSCOPE roi": "None",
+        "roi_composition": "None",
+        "cluster_size": "None",
+        "gene_counts": "None",
+        "umi_counts": "None",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "Group",
+      "cell_label": "BAM",
+      "cell_set_accession": "AIT117_342",
+      "parent_cell_set_accession": "AIT117_370",
+      "author_annotation_fields": {
+        "id": "None",
+        "MERSCOPE roi": "None",
+        "roi_composition": "None",
+        "cluster_size": "None",
+        "gene_counts": "None",
+        "umi_counts": "None",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "Group",
+      "cell_label": "T cells",
+      "cell_set_accession": "AIT117_343",
+      "parent_cell_set_accession": "AIT117_371",
+      "author_annotation_fields": {
+        "id": "None",
+        "MERSCOPE roi": "None",
+        "roi_composition": "None",
+        "cluster_size": "None",
+        "gene_counts": "None",
+        "umi_counts": "None",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "Group",
+      "cell_label": "Oligo OPALIN",
+      "cell_set_accession": "AIT117_344",
+      "parent_cell_set_accession": "AIT117_372",
+      "author_annotation_fields": {
+        "id": "None",
+        "MERSCOPE roi": "None",
+        "roi_composition": "None",
+        "cluster_size": "None",
+        "gene_counts": "None",
+        "umi_counts": "None",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "Group",
+      "cell_label": "Oligo RBFOX1",
+      "cell_set_accession": "AIT117_345",
+      "parent_cell_set_accession": "AIT117_372",
+      "author_annotation_fields": {
+        "id": "None",
+        "MERSCOPE roi": "None",
+        "roi_composition": "None",
+        "cluster_size": "None",
+        "gene_counts": "None",
+        "umi_counts": "None",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "Group",
+      "cell_label": "SN STH PVALB PITX2 Glut",
+      "cell_set_accession": "AIT117_346",
+      "parent_cell_set_accession": "AIT117_374",
+      "author_annotation_fields": {
+        "id": "None",
+        "MERSCOPE roi": "None",
+        "roi_composition": "None",
+        "cluster_size": "None",
+        "gene_counts": "None",
+        "umi_counts": "None",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "Group",
+      "cell_label": "TH PVALB CLMN Glut",
+      "cell_set_accession": "AIT117_347",
+      "parent_cell_set_accession": "AIT117_375",
+      "author_annotation_fields": {
+        "id": "None",
+        "MERSCOPE roi": "None",
+        "roi_composition": "None",
+        "cluster_size": "None",
+        "gene_counts": "None",
+        "umi_counts": "None",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "Group",
+      "cell_label": "BG SKOR1 Glut",
+      "cell_set_accession": "AIT117_348",
+      "parent_cell_set_accession": "AIT117_374",
+      "author_annotation_fields": {
+        "id": "None",
+        "MERSCOPE roi": "None",
+        "roi_composition": "None",
+        "cluster_size": "None",
+        "gene_counts": "None",
+        "umi_counts": "None",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "Group",
+      "cell_label": "SN STH VTA Glut",
+      "cell_set_accession": "AIT117_349",
+      "parent_cell_set_accession": "AIT117_374",
+      "author_annotation_fields": {
+        "id": "None",
+        "MERSCOPE roi": "None",
+        "roi_composition": "None",
+        "cluster_size": "None",
+        "gene_counts": "None",
+        "umi_counts": "None",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "Group",
+      "cell_label": "GPi Shell",
+      "cell_set_accession": "AIT117_350",
+      "parent_cell_set_accession": "AIT117_377",
+      "author_annotation_fields": {
+        "id": "None",
+        "MERSCOPE roi": "None",
+        "roi_composition": "None",
+        "cluster_size": "None",
+        "gene_counts": "None",
+        "umi_counts": "None",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "Subclass",
+      "cell_label": "CN MGE LAMP5 GABA",
+      "cell_set_accession": "AIT117_351",
+      "parent_cell_set_accession": "AIT117_378",
+      "author_annotation_fields": {
+        "id": "None",
+        "MERSCOPE roi": "None",
+        "roi_composition": "None",
+        "cluster_size": "None",
+        "gene_counts": "None",
+        "umi_counts": "None",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "Subclass",
+      "cell_label": "CN CGE VIP GABA",
+      "cell_set_accession": "AIT117_352",
+      "parent_cell_set_accession": "AIT117_379",
+      "author_annotation_fields": {
+        "id": "None",
+        "MERSCOPE roi": "None",
+        "roi_composition": "None",
+        "cluster_size": "None",
+        "gene_counts": "None",
+        "umi_counts": "None",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "Subclass",
+      "cell_label": "SN PVALB GABA",
+      "cell_set_accession": "AIT117_353",
+      "parent_cell_set_accession": "AIT117_378",
+      "author_annotation_fields": {
+        "id": "None",
+        "MERSCOPE roi": "None",
+        "roi_composition": "None",
+        "cluster_size": "None",
+        "gene_counts": "None",
+        "umi_counts": "None",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "Subclass",
+      "cell_label": "CN LHX6 LHX8 GABA",
+      "cell_set_accession": "AIT117_354",
+      "parent_cell_set_accession": "AIT117_378",
+      "author_annotation_fields": {
+        "id": "None",
+        "MERSCOPE roi": "None",
+        "roi_composition": "None",
+        "cluster_size": "None",
+        "gene_counts": "None",
+        "umi_counts": "None",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "Subclass",
+      "cell_label": "STR D1 MSN GABA",
+      "cell_set_accession": "AIT117_355",
+      "parent_cell_set_accession": "AIT117_380",
+      "author_annotation_fields": {
+        "id": "None",
+        "MERSCOPE roi": "None",
+        "roi_composition": "None",
+        "cluster_size": "None",
+        "gene_counts": "None",
+        "umi_counts": "None",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "Subclass",
+      "cell_label": "STR Granular GABA",
+      "cell_set_accession": "AIT117_356",
+      "parent_cell_set_accession": "AIT117_380",
+      "author_annotation_fields": {
+        "id": "None",
+        "MERSCOPE roi": "None",
+        "roi_composition": "None",
+        "cluster_size": "None",
+        "gene_counts": "None",
+        "umi_counts": "None",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "Subclass",
+      "cell_label": "STR D2 MSN GABA",
+      "cell_set_accession": "AIT117_357",
+      "parent_cell_set_accession": "AIT117_380",
+      "author_annotation_fields": {
+        "id": "None",
+        "MERSCOPE roi": "None",
+        "roi_composition": "None",
+        "cluster_size": "None",
+        "gene_counts": "None",
+        "umi_counts": "None",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "Subclass",
+      "cell_label": "GP PVALB GABA",
+      "cell_set_accession": "AIT117_358",
+      "parent_cell_set_accession": "AIT117_378",
+      "author_annotation_fields": {
+        "id": "None",
+        "MERSCOPE roi": "None",
+        "roi_composition": "None",
+        "cluster_size": "None",
+        "gene_counts": "None",
+        "umi_counts": "None",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "Subclass",
+      "cell_label": "STR Hybrid MSN GABA",
+      "cell_set_accession": "AIT117_359",
+      "parent_cell_set_accession": "AIT117_380",
+      "author_annotation_fields": {
+        "id": "None",
+        "MERSCOPE roi": "None",
+        "roi_composition": "None",
+        "cluster_size": "None",
+        "gene_counts": "None",
+        "umi_counts": "None",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "Subclass",
+      "cell_label": "TH MEIS2 GABA",
+      "cell_set_accession": "AIT117_360",
+      "parent_cell_set_accession": "AIT117_378",
+      "author_annotation_fields": {
+        "id": "None",
+        "MERSCOPE roi": "None",
+        "roi_composition": "None",
+        "cluster_size": "None",
+        "gene_counts": "None",
+        "umi_counts": "None",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "Subclass",
+      "cell_label": "BN MEIS2 GABA",
+      "cell_set_accession": "AIT117_361",
+      "parent_cell_set_accession": "AIT117_378",
+      "author_annotation_fields": {
+        "id": "None",
+        "MERSCOPE roi": "None",
+        "roi_composition": "None",
+        "cluster_size": "None",
+        "gene_counts": "None",
+        "umi_counts": "None",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "Subclass",
+      "cell_label": "SN STH GABA",
+      "cell_set_accession": "AIT117_362",
+      "parent_cell_set_accession": "AIT117_378",
+      "author_annotation_fields": {
+        "id": "None",
+        "MERSCOPE roi": "None",
+        "roi_composition": "None",
+        "cluster_size": "None",
+        "gene_counts": "None",
+        "umi_counts": "None",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "Subclass",
+      "cell_label": "STR SST GABA",
+      "cell_set_accession": "AIT117_363",
+      "parent_cell_set_accession": "AIT117_378",
+      "author_annotation_fields": {
+        "id": "None",
+        "MERSCOPE roi": "None",
+        "roi_composition": "None",
+        "cluster_size": "None",
+        "gene_counts": "None",
+        "umi_counts": "None",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "Subclass",
+      "cell_label": "STR Cholinergic GABA",
+      "cell_set_accession": "AIT117_364",
+      "parent_cell_set_accession": "AIT117_378",
+      "author_annotation_fields": {
+        "id": "None",
+        "MERSCOPE roi": "None",
+        "roi_composition": "None",
+        "cluster_size": "None",
+        "gene_counts": "None",
+        "umi_counts": "None",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "Subclass",
+      "cell_label": "BG PVALB GABA",
+      "cell_set_accession": "AIT117_365",
+      "parent_cell_set_accession": "AIT117_378",
+      "author_annotation_fields": {
+        "id": "None",
+        "MERSCOPE roi": "None",
+        "roi_composition": "None",
+        "cluster_size": "None",
+        "gene_counts": "None",
+        "umi_counts": "None",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "Subclass",
+      "cell_label": "Astrocyte",
+      "cell_set_accession": "AIT117_366",
+      "parent_cell_set_accession": "AIT117_381",
+      "author_annotation_fields": {
+        "id": "None",
+        "MERSCOPE roi": "None",
+        "roi_composition": "None",
+        "cluster_size": "None",
+        "gene_counts": "None",
+        "umi_counts": "None",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "Subclass",
+      "cell_label": "Endo",
+      "cell_set_accession": "AIT117_367",
+      "parent_cell_set_accession": "AIT117_382",
+      "author_annotation_fields": {
+        "id": "None",
+        "MERSCOPE roi": "None",
+        "roi_composition": "None",
+        "cluster_size": "None",
+        "gene_counts": "None",
+        "umi_counts": "None",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "Subclass",
+      "cell_label": "Ependymal",
+      "cell_set_accession": "AIT117_368",
+      "parent_cell_set_accession": "AIT117_381",
+      "author_annotation_fields": {
+        "id": "None",
+        "MERSCOPE roi": "None",
+        "roi_composition": "None",
+        "cluster_size": "None",
+        "gene_counts": "None",
+        "umi_counts": "None",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "Subclass",
+      "cell_label": "Microglia",
+      "cell_set_accession": "AIT117_369",
+      "parent_cell_set_accession": "AIT117_383",
+      "author_annotation_fields": {
+        "id": "None",
+        "MERSCOPE roi": "None",
+        "roi_composition": "None",
+        "cluster_size": "None",
+        "gene_counts": "None",
+        "umi_counts": "None",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "Subclass",
+      "cell_label": "Macrophage",
+      "cell_set_accession": "AIT117_370",
+      "parent_cell_set_accession": "AIT117_383",
+      "author_annotation_fields": {
+        "id": "None",
+        "MERSCOPE roi": "None",
+        "roi_composition": "None",
+        "cluster_size": "None",
+        "gene_counts": "None",
+        "umi_counts": "None",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "Subclass",
+      "cell_label": "Lymphocyte",
+      "cell_set_accession": "AIT117_371",
+      "parent_cell_set_accession": "AIT117_383",
+      "author_annotation_fields": {
+        "id": "None",
+        "MERSCOPE roi": "None",
+        "roi_composition": "None",
+        "cluster_size": "None",
+        "gene_counts": "None",
+        "umi_counts": "None",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "Subclass",
+      "cell_label": "Oligodendrocyte",
+      "cell_set_accession": "AIT117_372",
+      "parent_cell_set_accession": "AIT117_384",
+      "author_annotation_fields": {
+        "id": "None",
+        "MERSCOPE roi": "None",
+        "roi_composition": "None",
+        "cluster_size": "None",
+        "gene_counts": "None",
+        "umi_counts": "None",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "Subclass",
+      "cell_label": "OPC",
+      "cell_set_accession": "AIT117_373",
+      "parent_cell_set_accession": "AIT117_384",
+      "author_annotation_fields": {
+        "id": "None",
+        "MERSCOPE roi": "None",
+        "roi_composition": "None",
+        "cluster_size": "None",
+        "gene_counts": "None",
+        "umi_counts": "None",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "Subclass",
+      "cell_label": "BG Glut",
+      "cell_set_accession": "AIT117_374",
+      "parent_cell_set_accession": "AIT117_385",
+      "author_annotation_fields": {
+        "id": "None",
+        "MERSCOPE roi": "None",
+        "roi_composition": "None",
+        "cluster_size": "None",
+        "gene_counts": "None",
+        "umi_counts": "None",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "Subclass",
+      "cell_label": "TH Glut",
+      "cell_set_accession": "AIT117_375",
+      "parent_cell_set_accession": "AIT117_385",
+      "author_annotation_fields": {
+        "id": "None",
+        "MERSCOPE roi": "None",
+        "roi_composition": "None",
+        "cluster_size": "None",
+        "gene_counts": "None",
+        "umi_counts": "None",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "Subclass",
+      "cell_label": "SN TH Dopa",
+      "cell_set_accession": "AIT117_376",
+      "parent_cell_set_accession": "AIT117_386",
+      "author_annotation_fields": {
+        "id": "None",
+        "MERSCOPE roi": "None",
+        "roi_composition": "None",
+        "cluster_size": "None",
+        "gene_counts": "None",
+        "umi_counts": "None",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "Subclass",
+      "cell_label": "GP GABA Glut",
+      "cell_set_accession": "AIT117_377",
+      "parent_cell_set_accession": "AIT117_387",
+      "author_annotation_fields": {
+        "id": "None",
+        "MERSCOPE roi": "None",
+        "roi_composition": "None",
+        "cluster_size": "None",
+        "gene_counts": "None",
+        "umi_counts": "None",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "Class",
+      "cell_label": "CN MGE GABA",
+      "cell_set_accession": "AIT117_378",
+      "parent_cell_set_accession": "AIT117_388",
+      "author_annotation_fields": {
+        "id": "None",
+        "MERSCOPE roi": "None",
+        "roi_composition": "None",
+        "cluster_size": "None",
+        "gene_counts": "None",
+        "umi_counts": "None",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "Class",
+      "cell_label": "CN CGE GABA",
+      "cell_set_accession": "AIT117_379",
+      "parent_cell_set_accession": "AIT117_388",
+      "author_annotation_fields": {
+        "id": "None",
+        "MERSCOPE roi": "None",
+        "roi_composition": "None",
+        "cluster_size": "None",
+        "gene_counts": "None",
+        "umi_counts": "None",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "Class",
+      "cell_label": "CN LGE GABA",
+      "cell_set_accession": "AIT117_380",
+      "parent_cell_set_accession": "AIT117_388",
+      "author_annotation_fields": {
+        "id": "None",
+        "MERSCOPE roi": "None",
+        "roi_composition": "None",
+        "cluster_size": "None",
+        "gene_counts": "None",
+        "umi_counts": "None",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "Class",
+      "cell_label": "Astro-Epen",
+      "cell_set_accession": "AIT117_381",
+      "parent_cell_set_accession": "AIT117_389",
+      "author_annotation_fields": {
+        "id": "None",
+        "MERSCOPE roi": "None",
+        "roi_composition": "None",
+        "cluster_size": "None",
+        "gene_counts": "None",
+        "umi_counts": "None",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "Class",
+      "cell_label": "Vascular",
+      "cell_set_accession": "AIT117_382",
+      "parent_cell_set_accession": "AIT117_389",
+      "author_annotation_fields": {
+        "id": "None",
+        "MERSCOPE roi": "None",
+        "roi_composition": "None",
+        "cluster_size": "None",
+        "gene_counts": "None",
+        "umi_counts": "None",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "Class",
+      "cell_label": "Immune",
+      "cell_set_accession": "AIT117_383",
+      "parent_cell_set_accession": "AIT117_389",
+      "author_annotation_fields": {
+        "id": "None",
+        "MERSCOPE roi": "None",
+        "roi_composition": "None",
+        "cluster_size": "None",
+        "gene_counts": "None",
+        "umi_counts": "None",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "Class",
+      "cell_label": "OPC-Oligo",
+      "cell_set_accession": "AIT117_384",
+      "parent_cell_set_accession": "AIT117_389",
+      "author_annotation_fields": {
+        "id": "None",
+        "MERSCOPE roi": "None",
+        "roi_composition": "None",
+        "cluster_size": "None",
+        "gene_counts": "None",
+        "umi_counts": "None",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "Class",
+      "cell_label": "F M Glut",
+      "cell_set_accession": "AIT117_385",
+      "parent_cell_set_accession": "AIT117_390",
+      "author_annotation_fields": {
+        "id": "None",
+        "MERSCOPE roi": "None",
+        "roi_composition": "None",
+        "cluster_size": "None",
+        "gene_counts": "None",
+        "umi_counts": "None",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "Class",
+      "cell_label": "MB Dopaminergic",
+      "cell_set_accession": "AIT117_386",
+      "parent_cell_set_accession": "AIT117_390",
+      "author_annotation_fields": {
+        "id": "None",
+        "MERSCOPE roi": "None",
+        "roi_composition": "None",
+        "cluster_size": "None",
+        "gene_counts": "None",
+        "umi_counts": "None",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "Class",
+      "cell_label": "BG GABA Glut",
+      "cell_set_accession": "AIT117_387",
+      "parent_cell_set_accession": "AIT117_391",
+      "author_annotation_fields": {
+        "id": "None",
+        "MERSCOPE roi": "None",
+        "roi_composition": "None",
+        "cluster_size": "None",
+        "gene_counts": "None",
+        "umi_counts": "None",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "Neighborhood",
+      "cell_label": "Subpallium GABA",
+      "cell_set_accession": "AIT117_388",
+      "author_annotation_fields": {
+        "id": "None",
+        "MERSCOPE roi": "None",
+        "roi_composition": "None",
+        "cluster_size": "None",
+        "gene_counts": "None",
+        "umi_counts": "None",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "Neighborhood",
+      "cell_label": "Nonneuron",
+      "cell_set_accession": "AIT117_389",
+      "author_annotation_fields": {
+        "id": "None",
+        "MERSCOPE roi": "None",
+        "roi_composition": "None",
+        "cluster_size": "None",
+        "gene_counts": "None",
+        "umi_counts": "None",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "Neighborhood",
+      "cell_label": "Glut Sero Dopa",
+      "cell_set_accession": "AIT117_390",
+      "author_annotation_fields": {
+        "id": "None",
+        "MERSCOPE roi": "None",
+        "roi_composition": "None",
+        "cluster_size": "None",
+        "gene_counts": "None",
+        "umi_counts": "None",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    },
+    {
+      "labelset": "Neighborhood",
+      "cell_label": "GABA Glut",
+      "cell_set_accession": "AIT117_391",
+      "author_annotation_fields": {
+        "id": "None",
+        "MERSCOPE roi": "None",
+        "roi_composition": "None",
+        "cluster_size": "None",
+        "gene_counts": "None",
+        "umi_counts": "None",
+        "Notes _AA": "None",
+        "Notes_NJJ": "None",
+        "shiny_order": "None"
+      }
+    }
+  ],
+  "title": "NHP Basal Ganglia taxonomy",
+  "description": "Atlas of Macaque basal ganglia, developed in collaboration with the BRAIN Initiative Cell Census Network (BICCN).",
+  "matrix_file_id": "CellXGene_dataset:nhp50930-982a-11ee-b9d1-0242ac120002",
+  "labelsets": [
+    {
+      "name": "cluster",
+      "description": "",
+      "rank": 0
+    },
+    {
+      "name": "Group",
+      "description": "",
+      "rank": 1
+    },
+    {
+      "name": "Subclass",
+      "description": "",
+      "rank": 2
+    },
+    {
+      "name": "Class",
+      "description": "",
+      "rank": 3
+    },
+    {
+      "name": "Neighborhood",
+      "description": "",
+      "rank": 4
+    }
+  ],
+  "orcid": "https://orcid.org/0000-0002-4436-969X",
+  "cellannotation_schema_version": "0.2b0"
+}
