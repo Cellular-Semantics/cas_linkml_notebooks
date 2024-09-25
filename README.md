@@ -18,8 +18,8 @@ Aims:
   
 
 * Add cell set level AT to Macaque BG tax
-   *  Agree on solution. Draft:
-      * AT was on clusters, so they all get the most specific (homology subclass)
+   *  
+      * Clusters get the most specific AT (homology subclass)
       * Everything else gets most specific matching block - if one exists
       * e.g. for
       *  <img width="993" alt="image" src="https://github.com/user-attachments/assets/4f0c0462-d4af-4c2c-a839-381d66f88b30">
