@@ -16,19 +16,21 @@ Aims:
    Action item: Fix TDT issue and then share flattened human BG taxonomy with CAP.
    Action term: Review roundtripping - should we switch to mixed strategy?
   
-
 * Add cell set level AT to Macaque BG tax
-   *  
-      * Clusters get the most specific AT (homology subclass)
-      * Everything else gets most specific matching block - if one exists
+  * Clusters get the most specific AT (homology subclass)
+   * Everything else gets most specific matching block - if one exists
       * e.g. for
       *  <img width="993" alt="image" src="https://github.com/user-attachments/assets/4f0c0462-d4af-4c2c-a839-381d66f88b30">
+        * cluster: 
+           *  41_IN:Lamp5 Lhx6 gaba
+           *  42_IN:Lamp5 Lhx6 gaba
+           *  43_IN:Lamp5 gaba
         * primate subclass:
           * CCK-FBXL7: CTX-MGE GABA
           * CCK-VIP-TAC3:vip Gaba
           * CHAT:PAL-STR Gaba-Chol
           * D1-ICj:OT D3 Folh1 Gaba
-      * primate-neighbourhood:
+        * primate-neighbourhood:
           * Astroyctes: Astro-Epen
           * CCK:CTX-MGE GABA
           * TAC3:CTX-CGE GABA
